@@ -1,0 +1,992 @@
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.73V   Iin:  1.76A |  0.02A |  0.01A   Iout:  1.49A   Pin: 78.38W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.65V   Iin:  1.76A |  0.02A |  0.01A   Iout:  1.49A   Pin: 78.20W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.73V   Iin:  1.75A |  0.02A |  0.02A   Iout:  1.48A   Pin: 77.84W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.57V   Iin:  1.75A |  0.02A |  0.01A   Iout:  1.48A   Pin: 77.84W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.57V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.12W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.65V   Iin:  1.75A |  0.02A |  0.01A   Iout:  1.48A   Pin: 77.84W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.49V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.12W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.03W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.73A |  0.01A |  0.01A   Iout:  1.47A   Pin: 76.80W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.73A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.71W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.15 | 0.00 | 0.00   Vin: 44.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.32V   Iin:  1.73A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.71W   BE: 1
+DC: 0.07 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.16V   Iin:  1.73A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.76W   BE: 1
+DC: 0.10 | 0.00 | 0.00   Vin: 47.14V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 50.76V   Iin:  1.53A |  0.01A |  0.01A   Iout:  1.42A   Pin: 72.26W   BE: 1
+DC: 0.13 | 0.00 | 0.00   Vin: 46.43V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.50V   Iin:  1.60A |  0.01A |  0.01A   Iout:  1.44A   Pin: 74.19W   BE: 1
+DC: 0.16 | 0.00 | 0.00   Vin: 45.31V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.99V   Iin:  1.67A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.72W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 43.30V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.72A |  0.02A |  0.01A   Iout:  1.44A   Pin: 74.47W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 48.59V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 47.89V   Iin:  1.31A |  0.02A |  0.01A   Iout:  1.33A   Pin: 63.82W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.12 | 0.00 | 0.00   Vin: 46.86V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 50.93V   Iin:  1.55A |  0.02A |  0.01A   Iout:  1.43A   Pin: 72.60W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 45.23V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.66A |  0.01A |  0.01A   Iout:  1.45A   Pin: 75.22W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.57V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.85W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.44A   Pin: 74.68W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.09W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.04W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.44A   Pin: 74.32W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.67V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.68W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.72W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.87W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.14 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.67V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.81W   BE: 1
+DC: 0.06 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.67A |  0.02A |  0.01A   Iout:  1.44A   Pin: 74.22W   BE: 1
+DC: 0.08 | 0.00 | 0.00   Vin: 47.17V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 50.27V   Iin:  1.51A |  0.02A |  0.01A   Iout:  1.42A   Pin: 71.15W   BE: 1
+DC: 0.11 | 0.00 | 0.00   Vin: 46.53V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.01V   Iin:  1.57A |  0.02A |  0.01A   Iout:  1.43A   Pin: 72.84W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 45.64V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.58V   Iin:  1.64A |  0.02A |  0.01A   Iout:  1.45A   Pin: 74.79W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 44.01V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.67V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.44A   Pin: 74.26W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.09 | 0.00 | 0.00   Vin: 48.54V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 47.89V   Iin:  1.31A |  0.02A |  0.01A   Iout:  1.33A   Pin: 63.75W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 46.46V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.09V   Iin:  1.58A |  0.02A |  0.01A   Iout:  1.44A   Pin: 73.48W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 45.03V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.67A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.48W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.75V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.12W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.83V   Iin:  1.70A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.31W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.83V   Iin:  1.70A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.83V   Iin:  1.70A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.67W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.91V   Iin:  1.70A |  0.01A |  0.01A   Iout:  1.46A   Pin: 75.76W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.83V   Iin:  1.70A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.91V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.91V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.81W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.91V   Iin:  1.69A |  0.01A |  0.01A   Iout:  1.45A   Pin: 75.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.14 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.99V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.90W   BE: 1
+DC: 0.07 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.91V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.12W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 47.12V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 50.76V   Iin:  1.53A |  0.02A |  0.01A   Iout:  1.42A   Pin: 72.03W   BE: 1
+DC: 0.12 | 0.00 | 0.00   Vin: 46.46V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.50V   Iin:  1.59A |  0.02A |  0.01A   Iout:  1.44A   Pin: 74.04W   BE: 1
+DC: 0.16 | 0.00 | 0.00   Vin: 45.41V |  0.00V |  0.56V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.99V   Iin:  1.67A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.89W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 43.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.91V   Iin:  1.74A |  0.01A |  0.01A   Iout:  1.46A   Pin: 75.70W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 48.67V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 47.98V   Iin:  1.31A |  0.01A |  0.01A   Iout:  1.33A   Pin: 63.92W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 46.76V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.26V   Iin:  1.57A |  0.02A |  0.01A   Iout:  1.43A   Pin: 73.20W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 45.31V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.08V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.09W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 44.57V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.16V   Iin:  1.72A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.66W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.24V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.21W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.24V   Iin:  1.72A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.75W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.72A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.48W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.72A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.35W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.49V   Iin:  1.73A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.89W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.49V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.49V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.21W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.57V   Iin:  1.75A |  0.02A |  0.01A   Iout:  1.48A   Pin: 78.02W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.65V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.66W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.15 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.90V   Iin:  1.76A |  0.02A |  0.01A   Iout:  1.48A   Pin: 78.29W   BE: 1
+DC: 0.08 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.90V   Iin:  1.77A |  0.02A |  0.01A   Iout:  1.49A   Pin: 79.06W   BE: 1
+DC: 0.11 | 0.00 | 0.00   Vin: 47.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.50V   Iin:  1.57A |  0.01A |  0.01A   Iout:  1.44A   Pin: 74.35W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 46.66V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.65A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.83W   BE: 1
+DC: 0.18 | 0.00 | 0.00   Vin: 45.51V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.14V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.49A   Pin: 79.20W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 43.30V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.90V   Iin:  1.80A |  0.02A |  0.02A   Iout:  1.47A   Pin: 77.99W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.09 | 0.00 | 0.00   Vin: 49.00V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.30V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.15W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.14 | 0.00 | 0.00   Vin: 47.32V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 51.99V   Iin:  1.60A |  0.01A |  0.01A   Iout:  1.45A   Pin: 75.62W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.39V   Iin:  1.76A |  0.02A |  0.01A   Iout:  1.50A   Pin: 79.99W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.72V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.55V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.51A   Pin: 80.92W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.55V   Iin:  1.81A |  0.01A |  0.01A   Iout:  1.50A   Pin: 80.56W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.80V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.10W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.88V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.55W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.96V   Iin:  1.84A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.14W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.13V   Iin:  1.85A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.18W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.21V   Iin:  1.85A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.18W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.21V   Iin:  1.85A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.32W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.37V   Iin:  1.87A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.35W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.86A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.91W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.18 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.54A   Pin: 83.76W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.37W   BE: 1
+DC: 0.13 | 0.00 | 0.00   Vin: 47.73V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.73V   Iin:  1.63A |  0.02A |  0.01A   Iout:  1.48A   Pin: 78.01W   BE: 1
+DC: 0.17 | 0.00 | 0.00   Vin: 46.94V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.88V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.52A   Pin: 81.68W   BE: 1
+DC: 0.21 | 0.00 | 0.00   Vin: 45.46V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.87A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.85W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 42.38V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.21V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.37W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.41V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.71V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.09W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.14V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.49V   Iin:  1.60A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.92W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.25V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.83A |  0.01A |  0.02A   Iout:  1.54A   Pin: 84.81W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.88V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.94A |  0.01A |  0.01A   Iout:  1.56A   Pin: 86.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.96A |  0.01A |  0.02A   Iout:  1.56A   Pin: 87.20W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.89W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.98A |  0.01A |  0.01A   Iout:  1.57A   Pin: 88.06W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.16W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.41W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.09V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 88.34W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 88.19W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.18V   Iin:  1.99A |  0.01A |  0.01A   Iout:  1.58A   Pin: 88.70W   BE: 1
+DC: 0.11 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.09V   Iin:  2.00A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.83W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 47.96V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.80V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.12W   BE: 1
+DC: 0.19 | 0.00 | 0.00   Vin: 47.04V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.19V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.54A   Pin: 85.11W   BE: 1
+DC: 0.24 | 0.00 | 0.00   Vin: 45.34V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.26V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.59A   Pin: 89.22W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.16V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  2.02A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.18W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.06 | 0.00 | 0.00   Vin: 49.61V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.96V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.57W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.70V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.08V   Iin:  1.57A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 46.86V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.93W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.93V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.18V   Iin:  1.97A |  0.02A |  0.02A   Iout:  1.58A   Pin: 88.60W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.18V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 88.36W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.18V   Iin:  2.00A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.18V   Iin:  2.00A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.88W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.59W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.18V   Iin:  2.00A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.78W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.99A |  0.02A |  0.01A   Iout:  1.57A   Pin: 88.22W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.99A |  0.01A |  0.01A   Iout:  1.58A   Pin: 88.47W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.99A |  0.02A |  0.01A   Iout:  1.57A   Pin: 88.22W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.55A   Pin: 86.97W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 56.01V   Iin:  1.98A |  0.03A |  0.01A   Iout:  1.57A   Pin: 87.77W   BE: 1
+DC: 0.10 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.20W   BE: 1
+DC: 0.13 | 0.00 | 0.00   Vin: 47.98V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.39V   Iin:  1.66A |  0.02A |  0.01A   Iout:  1.49A   Pin: 79.79W   BE: 1
+DC: 0.18 | 0.00 | 0.00   Vin: 47.17V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.78A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.19W   BE: 1
+DC: 0.23 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.58W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.95V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.99A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.58W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.59V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.88V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.33W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 48.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.57V   Iin:  1.59A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.13W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.46V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.36V   Iin:  1.85A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.78V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.93W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.04W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.41W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.58A   Pin: 87.98W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.87W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.93W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.13W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.97A |  0.01A |  0.01A   Iout:  1.56A   Pin: 87.49W   BE: 1
+DC: 0.10 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.11W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 47.91V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.63V   Iin:  1.68A |  0.01A |  0.01A   Iout:  1.50A   Pin: 80.45W   BE: 1
+DC: 0.19 | 0.00 | 0.00   Vin: 46.96V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.59W   BE: 1
+DC: 0.24 | 0.00 | 0.00   Vin: 45.23V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.73W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.26V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.29V   Iin:  2.00A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.38W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.06 | 0.00 | 0.00   Vin: 49.59V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.88V   Iin:  1.34A |  0.01A |  0.01A   Iout:  1.36A   Pin: 66.53W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.59V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.08V   Iin:  1.57A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.07W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.74V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.11V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.88V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.13W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.67V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.37W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.97A |  0.02A |  0.02A   Iout:  1.57A   Pin: 87.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.55V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.32V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.85W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.04W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.33W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.96W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.15W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.93W   BE: 1
+DC: 0.10 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.96W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 47.93V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.55V   Iin:  1.68A |  0.02A |  0.01A   Iout:  1.50A   Pin: 80.49W   BE: 1
+DC: 0.19 | 0.00 | 0.00   Vin: 46.96V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.40W   BE: 1
+DC: 0.23 | 0.00 | 0.00   Vin: 45.26V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.94A |  0.01A |  0.01A   Iout:  1.57A   Pin: 87.59W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.34V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.29V   Iin:  1.99A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.19W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.07 | 0.00 | 0.00   Vin: 49.56V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.88V   Iin:  1.34A |  0.01A |  0.01A   Iout:  1.36A   Pin: 66.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.54V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.08V   Iin:  1.57A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.99W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.74V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.11V   Iin:  1.82A |  0.02A |  0.02A   Iout:  1.54A   Pin: 84.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.88V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.58A   Pin: 88.13W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.22W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.88W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.69W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.58A   Pin: 87.96W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.93V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.69W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.28W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 87.15W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.58A   Pin: 87.96W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.97A |  0.01A |  0.01A   Iout:  1.57A   Pin: 87.41W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.56W   BE: 1
+DC: 0.10 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.77V   Iin:  1.98A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.67W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 47.88V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.55V   Iin:  1.67A |  0.02A |  0.01A   Iout:  1.49A   Pin: 80.01W   BE: 1
+DC: 0.18 | 0.00 | 0.00   Vin: 47.02V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.78A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.92W   BE: 1
+DC: 0.23 | 0.00 | 0.00   Vin: 45.34V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.85V   Iin:  1.93A |  0.01A |  0.01A   Iout:  1.56A   Pin: 87.37W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.57V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.37V   Iin:  2.00A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.15W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.07 | 0.00 | 0.00   Vin: 49.51V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.80V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.49V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.24V   Iin:  1.57A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.11W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.58V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.11V   Iin:  1.82A |  0.02A |  0.02A   Iout:  1.54A   Pin: 84.85W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.83V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.68V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.57A   Pin: 87.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.60V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.94A |  0.01A |  0.02A   Iout:  1.56A   Pin: 86.68W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.87W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.97W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.94A |  0.02A |  0.09A   Iout:  1.55A   Pin: 86.07W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.68V   Iin:  1.96A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.87W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.51W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.35W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.55A   Pin: 86.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.55A   Pin: 86.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.20 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.94A |  0.01A |  0.01A   Iout:  1.55A   Pin: 86.15W   BE: 1
+DC: 0.10 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.57A   Pin: 86.79W   BE: 1
+DC: 0.14 | 0.00 | 0.00   Vin: 47.86V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.31V   Iin:  1.66A |  0.02A |  0.01A   Iout:  1.49A   Pin: 79.58W   BE: 1
+DC: 0.18 | 0.00 | 0.00   Vin: 46.91V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.78A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.55W   BE: 1
+DC: 0.23 | 0.00 | 0.00   Vin: 45.28V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.72W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.04V   Iin:  1.97A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.70W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.07 | 0.00 | 0.00   Vin: 49.51V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.80V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.08V   Iin:  1.57A |  0.01A |  0.01A   Iout:  1.46A   Pin: 75.83W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.56V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.43W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.90V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.36W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.93A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.98W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.60V   Iin:  1.94A |  0.01A |  0.01A   Iout:  1.55A   Pin: 86.43W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.79W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.93A |  0.01A |  0.02A   Iout:  1.54A   Pin: 85.61W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.52V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.61W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.96A |  0.16A |  0.01A   Iout:  1.57A   Pin: 86.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.36V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.43W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.20 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.94A |  0.02A |  0.01A   Iout:  1.56A   Pin: 86.48W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.19 | 0.00 | 0.00   Vin: 44.32V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.44V   Iin:  1.94A |  0.02A |  0.02A   Iout:  1.55A   Pin: 86.13W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.36V   Iin:  1.92A |  0.01A |  0.01A   Iout:  1.54A   Pin: 85.44W   BE: 1
+DC: 0.13 | 0.00 | 0.00   Vin: 47.93V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.06V   Iin:  1.65A |  0.02A |  0.01A   Iout:  1.49A   Pin: 78.93W   BE: 1
+DC: 0.17 | 0.00 | 0.00   Vin: 47.12V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.21V   Iin:  1.75A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.38W   BE: 1
+DC: 0.22 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.19V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.56A   Pin: 85.82W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 42.20V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.29V   Iin:  1.95A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.20W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.46V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.71V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.16W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.14V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.40V   Iin:  1.59A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.72W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 46.25V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.63W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.70V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.19V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.60W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.11V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.53A   Pin: 84.54W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.03V   Iin:  1.92A |  0.01A |  0.01A   Iout:  1.55A   Pin: 85.16W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.03V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.43W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.03V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.53A   Pin: 84.44W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.55A   Pin: 84.97W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.91A |  0.02A |  0.01A   Iout:  1.55A   Pin: 84.98W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.91A |  0.01A |  0.01A   Iout:  1.54A   Pin: 84.66W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.62W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.37V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.89A |  0.01A |  0.01A   Iout:  1.53A   Pin: 83.89W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.19 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.49W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.91A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.70W   BE: 1
+DC: 0.13 | 0.00 | 0.00   Vin: 47.78V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.81V   Iin:  1.64A |  0.02A |  0.01A   Iout:  1.48A   Pin: 78.29W   BE: 1
+DC: 0.17 | 0.00 | 0.00   Vin: 46.91V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.96V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.64W   BE: 1
+DC: 0.21 | 0.00 | 0.00   Vin: 45.34V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.85A |  0.01A |  0.01A   Iout:  1.53A   Pin: 83.69W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 42.23V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.80V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.50A   Pin: 80.87W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.36V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.71V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.82W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.08V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.24V   Iin:  1.59A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 46.18V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.45V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.17W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.70V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.51W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.88A |  0.01A |  0.01A   Iout:  1.53A   Pin: 84.00W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.91A |  0.01A |  0.01A   Iout:  1.54A   Pin: 84.70W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.91A |  0.02A |  0.01A   Iout:  1.55A   Pin: 84.80W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.52A   Pin: 83.62W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.39W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.16W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.89A |  0.01A |  0.01A   Iout:  1.54A   Pin: 84.21W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.39W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.62W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.18 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.62V   Iin:  1.89A |  0.01A |  0.01A   Iout:  1.54A   Pin: 84.08W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 44.32V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 83.79W   BE: 1
+DC: 0.12 | 0.00 | 0.00   Vin: 47.73V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.57V   Iin:  1.62A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.43W   BE: 1
+DC: 0.16 | 0.00 | 0.00   Vin: 46.89V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.63V   Iin:  1.72A |  0.02A |  0.01A   Iout:  1.51A   Pin: 80.83W   BE: 1
+DC: 0.21 | 0.00 | 0.00   Vin: 45.41V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.84A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.64W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 42.23V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.55V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.49A   Pin: 80.01W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.31V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.63V   Iin:  1.33A |  0.01A |  0.01A   Iout:  1.35A   Pin: 65.76W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 47.98V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.08V   Iin:  1.58A |  0.02A |  0.01A   Iout:  1.46A   Pin: 75.89W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 46.10V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.21V   Iin:  1.79A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.47W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.72V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.87A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.65W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.45V   Iin:  1.86A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.91W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.54W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.45V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.58W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.62W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.62V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.72W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.87A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.90W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.87A |  0.02A |  0.01A   Iout:  1.52A   Pin: 83.04W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.45V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 83.85W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.86A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.72W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.18 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.63W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.54V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 83.80W   BE: 1
+DC: 0.12 | 0.00 | 0.00   Vin: 47.70V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.57V   Iin:  1.63A |  0.02A |  0.01A   Iout:  1.48A   Pin: 77.78W   BE: 1
+DC: 0.16 | 0.00 | 0.00   Vin: 46.86V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.80V   Iin:  1.72A |  0.01A |  0.01A   Iout:  1.50A   Pin: 80.79W   BE: 1
+DC: 0.21 | 0.00 | 0.00   Vin: 45.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.84A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.69W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 42.33V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.72V   Iin:  1.92A |  0.01A |  0.01A   Iout:  1.51A   Pin: 81.24W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.31V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 48.63V   Iin:  1.33A |  0.01A |  0.01A   Iout:  1.35A   Pin: 65.56W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 48.03V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.16V   Iin:  1.58A |  0.02A |  0.01A   Iout:  1.45A   Pin: 75.78W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 46.15V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.37V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.94W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.67V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.78V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.46W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.62V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.70V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.82W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.44V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.90A |  0.01A |  0.01A   Iout:  1.54A   Pin: 84.57W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.99W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.80W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.52V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.91A |  0.02A |  0.01A   Iout:  1.55A   Pin: 84.90W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.39V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.48W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.55V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.86V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.58W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.42V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.91A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.70W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.19 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.90A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.62W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.19 | 0.00 | 0.00   Vin: 44.50V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.95V   Iin:  1.91A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.85W   BE: 1
+DC: 0.09 | 0.00 | 0.00   Vin: 44.47V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.03V   Iin:  1.92A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.34W   BE: 1
+DC: 0.13 | 0.00 | 0.00   Vin: 47.80V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 52.98V   Iin:  1.65A |  0.01A |  0.01A   Iout:  1.49A   Pin: 78.72W   BE: 1
+DC: 0.17 | 0.00 | 0.00   Vin: 46.96V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 54.21V   Iin:  1.76A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.49W   BE: 1
+DC: 0.22 | 0.00 | 0.00   Vin: 45.34V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 55.11V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.35W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 41.82V |  0.00V |  0.00V   Vref: 44.45V |  0.25V |  0.25V   Vout: 53.88V   Iin:    DC: 0.10   V: 46.56V |  0.00V |  0.00V   P: 82.91W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.12   V: 47.37V |  0.00V |  0.00V   P: 81.67W |  0.00W |  0.00W   MPP V: 46.56V |  0.00V |  0.00V   MPP P: 82.91W |  0.00W |  0.00W   BE: 1
+   DC: 0.14   V: 46.86V |  0.00V |  0.00V   P: 84.22W |  0.00W |  0.00W   MPP V: 46.56V |  0.00V |  0.00V   MPP P: 82.91W |  0.00W |  0.00W   BE: 1
+   DC: 0.16   V: 46.15V |  0.05V |  0.08V   P: 84.82W |  0.00W |  0.00W   MPP V: 46.86V |  0.00V |  0.00V   MPP P: 84.22W |  0.00W |  0.00W   BE: 1
+   DC: 0.18   V: 45.28V |  0.08V |  0.05V   P: 86.72W |  0.00W |  0.00W   MPP V: 46.15V |  0.05V |  0.08V   MPP P: 84.82W |  0.00W |  0.00W   BE: 1
+   DC: 0.20   V: 44.16V |  0.13V |  0.08V   P: 86.19W |  0.00W |  0.00W   MPP V: 45.28V |  0.08V |  0.08V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.22   V: 42.74V |  0.15V |  0.10V   P: 84.11W |  0.00W |  0.00W   MPP V: 45.28V |  0.13V |  0.08V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.24   V: 40.83V |  0.20V |  0.15V   P: 81.84W |  0.00W |  0.00W   MPP V: 45.28V |  0.15V |  0.10V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.26   V: 38.79V |  0.15V |  0.18V   P: 77.45W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.15V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.28   V: 36.76V |  0.18V |  0.20V   P: 73.83W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.15V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.30   V: 34.75V |  0.10V |  0.10V   P: 70.21W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.32   V: 32.91V |  0.00V |  0.00V   P: 66.78W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.34   V: 31.08V |  0.00V |  0.00V   P: 62.93W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.36   V: 29.35V |  0.00V |  0.00V   P: 59.31W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.38   V: 27.62V |  0.00V |  0.00V   P: 56.93W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.40   V: 25.99V |  0.00V |  0.00V   P: 53.47W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.42   V: 24.39V |  0.00V |  0.00V   P: 50.57W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 22.78V |  0.00V |  0.00V   P: 47.43W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 21.15V |  0.00V |  0.00V   P: 43.78W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 19.63V |  0.00V |  0.00V   P: 40.86W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 18.20V |  0.00V |  0.00V   P: 38.18W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 16.85V |  0.00V |  0.00V   P: 35.22W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 15.50V |  0.00V |  0.00V   P: 32.78W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 14.18V |  0.00V |  0.00V   P: 30.09W |  0.00W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 12.96V |  2.04V |  0.00V   P: 27.45W |  0.03W |  0.00W   MPP V: 45.28V |  0.20V |  0.20V   MPP P: 86.72W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 11.84V |  0.00V |  0.05V   P: 25.07W |  0.00W |  0.00W   MPP V: 45.28V |  2.04V |  0.20V   MPP P: 86.72W |  0.03W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.18 | 0.58 | 0.28
+//  MPP POWER: 86.72W |  0.03W |  0.00W
+//  MPP Vin: 45.28 |  2.04 |  0.20
+//
+/////////////////////////////
+
+setting duty cycles to mpp_duty
+
+DC: 0.18 | 0.58 | 0.28   Vin: 11.63V |  0.00V |  0.03V   Vref: 45.28V |  2.04V |  0.00V   Vout: 29.11V   Iin:  2.11A |  0.01A |  0.01A   Iout:  0.84A   Pin: 24.55W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.01   Vin: 45.13V |  0.00V |  0.23V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.36V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.54A   Pin: 85.52W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.10 | 0.00 | 0.00   Vin: 49.46V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 48.71V   Iin:  1.34A |  0.02A |  0.01A   Iout:  1.36A   Pin: 66.16W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 47.86V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 53.06V   Iin:  1.65A |  0.02A |  0.01A   Iout:  1.49A   Pin: 78.80W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 46.56V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 54.78V   Iin:  1.81A |  0.01A |  0.01A   Iout:  1.53A   Pin: 84.05W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 45.64V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.19V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.74W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 45.36V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.19V   Iin:  1.87A |  0.01A |  0.01A   Iout:  1.54A   Pin: 85.02W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 45.28V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.19V   Iin:  1.89A |  0.01A |  0.01A   Iout:  1.55A   Pin: 85.80W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 45.28V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.19V   Iin:  1.87A |  0.02A |  0.01A   Iout:  1.53A   Pin: 84.70W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.18 | 0.00 | 0.00   Vin: 45.28V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.11V   Iin:  1.88A |  0.02A |  0.02A   Iout:  1.55A   Pin: 85.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 45.23V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.11V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.15W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 45.31V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.11V   Iin:  1.87A |  0.01A |  0.01A   Iout:  1.53A   Pin: 84.56W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 45.23V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.11V   Iin:  1.89A |  0.02A |  0.02A   Iout:  1.55A   Pin: 85.34W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 45.28V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.03V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.07W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.17 | 0.00 | 0.00   Vin: 45.31V |  0.00V |  0.00V   Vref: 45.28V |  2.04V |  0.00V   Vout: 55.03V   Iin:  1.87A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.56W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.17 | 0.00 | 0.00   Vin: 45.23V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.95V   Iin:  1.88A |  0.02A |  0.01A   Iout:  1.55A   Pin: 85.15W   BE: 1
+(CCM) DC: 0.09 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.86V   Iin:  1.86A |  0.02A |  0.01A   Iout:  1.54A   Pin: 84.62W   BE: 1
+(CCM) DC: 0.13 | 0.00 | 0.00   Vin: 47.83V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.73V   Iin:  1.63A |  0.02A |  0.01A   Iout:  1.48A   Pin: 77.98W   BE: 1
+(CCM) DC: 0.17 | 0.00 | 0.00   Vin: 46.94V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.96V   Iin:  1.75A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.26W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 45.21V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.86V   Iin:  1.86A |  0.02A |  0.01A   Iout:  1.53A   Pin: 84.00W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.38V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.63V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.88V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.49V   Iin:  1.61A |  0.01A |  0.02A   Iout:  1.47A   Pin: 77.09W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.76V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.37W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.95V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.54V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.51W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.64V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.54V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.51W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.62V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.32W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.62V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.54V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.32W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.54V   Iin:  1.84A |  0.02A |  0.01A   Iout:  1.54A   Pin: 83.88W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.84A |  0.02A |  0.01A   Iout:  1.54A   Pin: 83.60W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.67W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.54V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.52A   Pin: 83.14W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.04W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.67W   BE: 1
+(CCM) DC: 0.09 | 0.00 | 0.00   Vin: 45.51V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.91W   BE: 1
+(CCM) DC: 0.12 | 0.00 | 0.00   Vin: 47.68V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.49V   Iin:  1.61A |  0.01A |  0.01A   Iout:  1.46A   Pin: 76.77W   BE: 1
+(CCM) DC: 0.16 | 0.00 | 0.00   Vin: 46.89V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.39V   Iin:  1.70A |  0.02A |  0.01A   Iout:  1.50A   Pin: 79.88W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 45.44V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.21W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.09 | 0.00 | 0.00   Vin: 49.23V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.55V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.65W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.68V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.32V   Iin:  1.61A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.57W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.66V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.55V   Iin:  1.73A |  0.02A |  0.01A   Iout:  1.51A   Pin: 80.82W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.84V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.77A |  0.02A |  0.01A   Iout:  1.50A   Pin: 81.27W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.67V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.44W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.40W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.56V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.44W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.51V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.35W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.78A |  0.02A |  0.01A   Iout:  1.50A   Pin: 81.29W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.81A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.79A |  0.01A |  0.01A   Iout:  1.51A   Pin: 81.56W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.21W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.15 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.84W   BE: 1
+(CCM) DC: 0.08 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.04V   Iin:  1.79A |  0.01A |  0.01A   Iout:  1.51A   Pin: 81.47W   BE: 1
+(CCM) DC: 0.11 | 0.00 | 0.00   Vin: 47.73V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.08V   Iin:  1.59A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.07W   BE: 1
+(CCM) DC: 0.15 | 0.00 | 0.00   Vin: 46.96V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.14V   Iin:  1.69A |  0.02A |  0.01A   Iout:  1.49A   Pin: 79.44W   BE: 1
+(CCM) DC: 0.20 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.80A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.12W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 42.79V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.47V   Iin:  1.89A |  0.02A |  0.01A   Iout:  1.51A   Pin: 80.73W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.04 | 0.00 | 0.00   Vin: 49.20V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.55V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.42W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.10 | 0.00 | 0.00   Vin: 48.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 50.44V   Iin:  1.47A |  0.02A |  0.01A   Iout:  1.41A   Pin: 71.25W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.37V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.73V   Iin:  1.65A |  0.02A |  0.01A   Iout:  1.48A   Pin: 78.20W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.40V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.80V   Iin:  1.75A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.13W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.82V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.34W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.64V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.21W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.81A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.12W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.82A |  0.01A |  0.01A   Iout:  1.53A   Pin: 82.67W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.12W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.40W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+(CCM) DC: 0.09 | 0.00 | 0.00   Vin: 45.56V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.00W   BE: 1
+(CCM) DC: 0.12 | 0.00 | 0.00   Vin: 47.65V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.57V   Iin:  1.62A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.31W   BE: 1
+(CCM) DC: 0.16 | 0.00 | 0.00   Vin: 46.81V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.47V   Iin:  1.72A |  0.01A |  0.02A   Iout:  1.51A   Pin: 80.51W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 45.26V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.44W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.08 | 0.00 | 0.00   Vin: 49.28V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.55V   Iin:  1.33A |  0.01A |  0.01A   Iout:  1.35A   Pin: 65.52W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.78V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.32V   Iin:  1.60A |  0.02A |  0.01A   Iout:  1.46A   Pin: 76.54W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.66V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.72V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.01W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 45.95V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.13V   Iin:  1.78A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.83W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.67V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.07W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.30W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.40W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.81A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.58W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.14W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.95W   BE: 1
+(CCM) DC: 0.09 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.86W   BE: 1
+(CCM) DC: 0.12 | 0.00 | 0.00   Vin: 47.68V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.40V   Iin:  1.61A |  0.01A |  0.01A   Iout:  1.46A   Pin: 76.57W   BE: 1
+(CCM) DC: 0.16 | 0.00 | 0.00   Vin: 46.94V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.55V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.50A   Pin: 80.16W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 45.44V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.09 | 0.00 | 0.00   Vin: 49.28V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.63V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.52W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.68V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.40V   Iin:  1.62A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.15W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.66V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.72V   Iin:  1.73A |  0.02A |  0.01A   Iout:  1.50A   Pin: 80.82W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.92V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.78A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.97W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.64V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.14W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.51V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.54W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.82A |  0.01A |  0.01A   Iout:  1.53A   Pin: 82.67W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.56V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.80A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.07W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.80A |  0.01A |  0.02A   Iout:  1.51A   Pin: 82.03W   BE: 1
+(CCM) DC: 0.09 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.77W   BE: 1
+(CCM) DC: 0.12 | 0.00 | 0.00   Vin: 47.68V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.40V   Iin:  1.62A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.15W   BE: 1
+(CCM) DC: 0.16 | 0.00 | 0.00   Vin: 46.84V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.47V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.50A   Pin: 79.98W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 45.39V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.09 | 0.00 | 0.00   Vin: 49.26V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.55V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.75V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.32V   Iin:  1.61A |  0.02A |  0.01A   Iout:  1.47A   Pin: 76.69W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.66V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.72V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.51A   Pin: 81.01W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.90V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.79A |  0.02A |  0.01A   Iout:  1.51A   Pin: 82.11W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.69V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.81A |  0.01A |  0.01A   Iout:  1.53A   Pin: 82.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 82.95W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.49W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.51V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.09W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.14W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.29V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.67W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.01A |  0.01A   Iout:  1.52A   Pin: 82.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.41W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+/////////////////////////////
+//
+//
+//   (SHOULD BE) ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.32W   BE: 1
+(CCM) DC: 0.09 | 0.00 | 0.00   Vin: 45.56V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.00W   BE: 1
+(CCM) DC: 0.12 | 0.00 | 0.00   Vin: 47.75V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.49V   Iin:  1.61A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.08W   BE: 1
+(CCM) DC: 0.16 | 0.00 | 0.00   Vin: 46.91V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.55V   Iin:  1.71A |  0.02A |  0.01A   Iout:  1.50A   Pin: 80.11W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.00 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.67W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.09 | 0.00 | 0.00   Vin: 49.31V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 48.55V   Iin:  1.33A |  0.02A |  0.01A   Iout:  1.35A   Pin: 65.56W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.13 | 0.00 | 0.00   Vin: 47.73V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 52.49V   Iin:  1.62A |  0.02A |  0.01A   Iout:  1.47A   Pin: 77.24W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.15 | 0.00 | 0.00   Vin: 46.63V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 53.88V   Iin:  1.74A |  0.02A |  0.01A   Iout:  1.50A   Pin: 80.96W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.90V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.21V   Iin:  1.81A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.04W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.64V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.14W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.01A |  0.01A   Iout:  1.53A   Pin: 83.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.51W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.59V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.82A |  0.02A |  0.01A   Iout:  1.52A   Pin: 82.86W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.49V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.23W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.37V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.53A   Pin: 83.32W   BE: 1
+MAX CURRENT OF 1.2A EXCEEDED
+DC: 0.16 | 0.00 | 0.00   Vin: 45.54V |  0.00V |  0.00V   Vref: 45.53V |  2.29V |  0.25V   Vout: 54.45V   Iin:  1.83A |  0.02A |  0.01A   Iout:  1.

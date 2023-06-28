@@ -1,0 +1,160 @@
+PP P: 179.27W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 44.37V |  0.00V |  0.00V   P: 184.91W |  0.00W |  0.00W   MPP V: 37.11V |  0.00V |  0.00V   MPP P: 179.27W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 43.35V |  0.00V |  0.00V   P: 190.54W |  0.00W |  0.00W   MPP V: 44.37V |  0.00V |  0.00V   MPP P: 184.91W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 42.03V |  0.00V |  0.00V   P: 193.26W |  0.00W |  0.00W   MPP V: 43.35V |  0.00V |  0.00V   MPP P: 190.54W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 40.24V |  0.00V |  0.00V   P: 189.81W |  0.00W |  0.00W   MPP V: 42.03V |  0.00V |  0.00V   MPP P: 193.26W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 38.00V |  0.00V |  0.03V   P: 182.18W |  0.00W |  0.00W   MPP V: 42.03V |  0.00V |  0.00V   MPP P: 193.26W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 35.08V |  0.03V |  0.05V   P: 169.29W |  0.00W |  0.00W   MPP V: 42.03V |  0.00V |  0.03V   MPP P: 193.26W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 32.18V |  0.00V |  0.03V   P: 155.94W |  0.00W |  0.00W   MPP V: 42.03V |  0.03V |  0.05V   MPP P: 193.26W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 29.25V |  0.03V |  0.00V   P: 142.82W |  0.00W |  0.00W   MPP V: 42.03V |  0.03V |  0.05V   MPP P: 193.26W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 26.52V |  0.03V |  0.05V   P: 129.42W |  0.00W |  0.00W   MPP V: 42.03V |  0.03V |  0.05V   MPP P: 193.26W |  0.00W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.48 | 0.54 | 0.54
+//  MPP POWER: 193.26W |  0.00W |  0.00W
+//  MPP Vin: 42.03 |  0.03 |  0.05
+//
+/////////////////////////////
+
+setting duty cycles to mpp_duty
+
+DC: 0.48 / 0.54 / 0.54   Vin: 26.12V / 0.05V / 0.05V   Vref: 45.00V / 45.00V / 45.00V   Vout: 66.51V   Iin: 4.86A / 0.02A / 0.03A   Iout: 1.91A   Pin:127.01W   BE:1
+Unbounded DC: -0.058 | DC: 0.000 | Now: 42.00 | Ref: 45.00 | Error: -0.05 | Integral: -0.42 | dt: 08.36 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.877 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -6.27 | dt: 08.36 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.877 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -6.27 | dt: 08.36 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.00 / 0.00 / 0.00   Vin: 42.00V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 82.17V   Iin: 4.60A / 0.03A / 0.02A   Iout: 2.35A   Pin:193.32W   BE:1
+Unbounded DC: 0.198 | DC: 0.198 | Now: 49.79 | Ref: 45.00 | Error: 00.08 | Integral: 01.50 | dt: 24.08 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.135 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -24.33 | dt: 24.08 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.135 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -24.33 | dt: 24.08 |  p_: 00.13 | i_: 00.13
+DC: 0.20 / 0.00 / 0.00   Vin: 49.79V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 49.12V   Iin: 1.37A / 0.02A / 0.01A   Iout: 1.39A   Pin:68.22W   BE:1
+Unbounded DC: 0.372 | DC: 0.372 | Now: 48.64 | Ref: 45.00 | Error: 00.06 | Integral: 02.91 | dt: 23.16 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -5.306 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -41.70 | dt: 23.16 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -5.306 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -41.70 | dt: 23.16 |  p_: 00.13 | i_: 00.13
+DC: 0.37 / 0.00 / 0.00   Vin: 48.64V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 61.10V   Iin: 2.19A / 0.02A / 0.01A   Iout: 1.74A   Pin:106.41W   BE:1
+Unbounded DC: 0.435 | DC: 0.435 | Now: 46.40 | Ref: 45.00 | Error: 00.02 | Integral: 03.45 | dt: 23.20 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -7.481 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -59.10 | dt: 23.20 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -7.481 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -59.10 | dt: 23.20 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.43 / 0.00 / 0.00   Vin: 46.40V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 74.87V   Iin: 3.40A / 0.02A / 0.02A   Iout: 2.11A   Pin:157.92W   BE:1
+Unbounded DC: 0.407 | DC: 0.407 | Now: 44.52 | Ref: 45.00 | Error: -0.01 | Integral: 03.26 | dt: 24.16 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -9.746 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -77.22 | dt: 24.16 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -9.746 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -77.22 | dt: 24.16 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.41 / 0.00 / 0.00   Vin: 44.52V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 80.04V   Iin: 4.10A / 0.02A / 0.01A   Iout: 2.28A   Pin:182.47W   BE:1
+Unbounded DC: 0.433 | DC: 0.433 | Now: 45.49 | Ref: 45.00 | Error: 00.01 | Integral: 03.46 | dt: 24.12 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -12.007 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -95.31 | dt: 24.12 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -12.007 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -95.31 | dt: 24.12 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.43 / 0.00 / 0.00   Vin: 45.49V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 77.83V   Iin: 3.80A / 0.02A / 0.02A   Iout: 2.22A   Pin:172.75W   BE:1
+Unbounded DC: 0.411 | DC: 0.411 | Now: 44.60 | Ref: 45.00 | Error: -0.01 | Integral: 03.30 | dt: 24.20 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -14.276 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -113.46 | dt: 24.20 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -14.276 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -113.46 | dt: 24.20 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.41 / 0.00 / 0.00   Vin: 44.60V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 80.04V   Iin: 4.05A / 0.02A / 0.02A   Iout: 2.26A   Pin:180.79W   BE:1
+Unbounded DC: 0.432 | DC: 0.432 | Now: 45.39 | Ref: 45.00 | Error: 00.01 | Integral: 03.45 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -16.552 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -131.67 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -16.552 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -131.67 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.43 / 0.00 / 0.00   Vin: 45.39V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 78.24V   Iin: 3.80A / 0.02A / 0.02A   Iout: 2.21A   Pin:172.54W   BE:1
+Unbounded DC: 0.412 | DC: 0.412 | Now: 44.62 | Ref: 45.00 | Error: -0.01 | Integral: 03.30 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -18.829 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -149.88 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -18.829 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -149.88 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.41 / 0.00 / 0.00   Vin: 44.62V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 79.88V   Iin: 4.02A / 0.02A / 0.02A   Iout: 2.25A   Pin:179.44W   BE:1
+Unbounded DC: 0.430 | DC: 0.430 | Now: 45.34 | Ref: 45.00 | Error: 00.01 | Integral: 03.44 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -21.105 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -168.09 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -21.105 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -168.09 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.43 / 0.00 / 0.00   Vin: 45.34V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 78.32V   Iin: 3.81A / 0.02A / 0.01A   Iout: 2.21A   Pin:172.90W   BE:1
+Unbounded DC: 0.412 | DC: 0.412 | Now: 44.67 | Ref: 45.00 | Error: -0.01 | Integral: 03.30 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -23.381 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -186.30 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -23.381 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -186.30 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.41 / 0.00 / 0.00   Vin: 44.67V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 79.79V   Iin: 4.03A / 0.02A / 0.02A   Iout: 2.26A   Pin:180.19W   BE:1
+Unbounded DC: 0.431 | DC: 0.431 | Now: 45.34 | Ref: 45.00 | Error: 00.01 | Integral: 03.44 | dt: 24.32 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -25.661 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -204.54 | dt: 24.32 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -25.661 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -204.54 | dt: 24.32 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+DC: 0.43 / 0.00 / 0.00   Vin: 45.34V / 0.00V / 0.00V   Vref: 45.00V / 45.00V / 45.00V   Vout: 78.24V   Iin: 3.85A / 0.02A / 0.02A   Iout: 2.23A   Pin:174.56W   BE:1
+Unbounded DC: 0.413 | DC: 0.413 | Now: 44.67 | Ref: 45.00 | Error: -0.01 | Integral: 03.31 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -27.938 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -222.75 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -27.938 | DC: 0.000 | Now: 00.00 | Ref: 45.00 | Error: -0.75 | Integral: -222.75 | dt: 24.28 |  p_: 00.13 | i_: 00.13
+MAX CURRENT EXCEEDED
+/////////////////////////////
+//
+//
+//    ENTERING CONSTANT CURRENT MODE
+//
+//
+/////////////////////////////
+Unbounded DC: 0.042 | DC: 0.042 | Now: 02.20 | Ref: 02.10 | Error: 00.01 | Integral: 00.32 | dt: 22.20 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.032 | DC: 0.000 | Now: 01.47 | Ref: 02.10 | Error: -0.09 | Integral: -0.16 | dt: 05.36 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.103 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -0.72 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.173 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -1.28 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.242 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -1.84 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.311 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -2.39 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.381 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -2.95 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.451 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -3.51 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.520 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -4.06 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.591 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -4.62 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.660 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -5.18 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.730 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -5.73 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.800 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -6.30 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.870 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -6.85 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -0.939 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -7.41 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.009 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -7.97 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.079 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -8.53 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.149 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -9.09 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.218 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -9.64 | dt: 05.40 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.287 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -10.19 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.357 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -10.75 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.427 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -11.31 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.497 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -11.87 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.567 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -12.43 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.638 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -13.00 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.708 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -13.56 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.778 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -14.12 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.848 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -14.68 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.918 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -15.24 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -1.989 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -15.81 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.059 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -16.37 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.129 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -16.93 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.199 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -17.49 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.270 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -18.06 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.340 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -18.62 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.411 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -19.18 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.481 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -19.75 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.551 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -20.30 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.622 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -20.87 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.692 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -21.43 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.762 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -21.99 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.832 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -22.55 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.903 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -23.12 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -2.973 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -23.68 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.043 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -24.24 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.113 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -24.80 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.184 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -25.37 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.254 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -25.93 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.324 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -26.49 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.395 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -27.06 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.465 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -27.62 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.535 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -28.18 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.605 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -28.74 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.675 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -29.29 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.745 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -29.86 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.815 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -30.42 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.885 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -30.98 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -3.955 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -31.54 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.026 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -32.10 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.096 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -32.66 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.166 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -33.22 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.236 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -33.78 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.306 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -34.35 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.377 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -34.91 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.447 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -35.47 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.517 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -36.04 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.587 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -36.59 | dt: 05.44 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.658 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error: -0.10 | Integral: -37.16 | dt: 05.48 |  p_: 00.13 | i_: 00.13
+Unbounded DC: -4.728 | DC: 0.000 | Now: 01.38 | Ref: 02.10 | Error:

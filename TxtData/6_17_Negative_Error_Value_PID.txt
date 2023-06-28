@@ -1,0 +1,1012 @@
+   DC: 0.34   V: 47.32V |  0.00V |  0.00V   P: 146.61W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.36   V: 46.81V |  0.00V |  0.00V   P: 154.55W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.38   V: 46.10V |  0.00V |  0.00V   P: 159.88W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.40   V: 45.13V |  0.00V |  0.00V   P: 162.77W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.42   V: 44.22V |  0.00V |  0.00V   P: 166.65W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 42.76V |  0.00V |  0.00V   P: 169.18W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 40.65V |  0.00V |  0.00V   P: 163.47W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 37.80V |  0.00V |  0.00V   P: 151.39W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 35.23V |  0.00V |  0.00V   P: 141.95W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 32.61V |  0.00V |  0.00V   P: 132.98W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 30.01V |  0.00V |  0.00V   P: 123.00W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 27.52V |  0.00V |  0.05V   P: 112.22W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 25.10V |  0.03V |  0.03V   P: 103.58W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 22.76V |  0.03V |  0.05V   P: 93.36W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.44 | 0.26 | 0.26
+//  MPP POWER: 169.18W |  0.00W |  0.00W
+//  MPP Vin: 42.76 |  0.18 |  0.20
+//
+/////////////////////////////
+Unbounded DC: -8.611 | DC: 0.000 | Vin: 22.43 | Vref: 40.00 | Error: -0.29 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 22.43V |  0.05V |  0.05V   Vref: 40.00V | 30.00V | 30.00V    Vout: 56.91V    Iin:  4.11A |  0.02A |  0.01A    Pin: 92.19W    BE: 1
+Unbounded DC: -8.249 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.73V |  0.00V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 50.11V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.93W    BE: 1
+Unbounded DC: -7.954 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.73V |  0.03V |  0.05V   Vref: 40.00V | 30.00V | 30.00V    Vout: 50.03V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.93W    BE: 1
+Unbounded DC: -7.661 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.71V |  0.00V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 50.03V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.89W    BE: 1
+Unbounded DC: -7.369 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.68V |  0.00V |  0.05V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.65W    BE: 1
+Unbounded DC: -7.076 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.71V |  0.00V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.69W    BE: 1
+Unbounded DC: -6.784 | DC: 0.000 | Vin: 50.66 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.66V |  0.03V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 50.03V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.62W    BE: 1
+Unbounded DC: -6.493 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 50.03V    Iin:  1.38A |  0.01A |  0.01A    Pin: 69.79W    BE: 1
+Unbounded DC: -6.202 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.03V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.79W    BE: 1
+Unbounded DC: -5.911 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.05V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -5.619 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.05V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -5.328 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -5.036 | DC: 0.000 | Vin: 50.66 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.66V |  0.00V |  0.00V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.62W    BE: 1
+Unbounded DC: -4.745 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.03V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 50.03V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -4.454 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.03V   Vref: 40.00V | 30.00V | 30.00V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -4.170 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.05V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.38W    BE: 1
+Unbounded DC: -3.887 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.03V |  0.00V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.51W    BE: 1
+Unbounded DC: -3.603 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.03V |  0.00V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.38W    BE: 1
+Unbounded DC: -3.319 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.03V |  0.03V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.79W    BE: 1
+Unbounded DC: -3.036 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.03V |  0.05V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.72W    BE: 1
+Unbounded DC: -2.751 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.00V |  0.03V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.86V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.38W    BE: 1
+Unbounded DC: -2.469 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.03V |  0.03V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.38A |  0.02A |  0.01A    Pin: 69.72W    BE: 1
+Unbounded DC: -2.186 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.00V |  0.03V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.31W    BE: 1
+Unbounded DC: -1.901 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.03V |  0.00V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.86V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -1.617 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.60V |  0.00V |  0.03V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.55W    BE: 1
+Unbounded DC: -1.334 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.00V |  0.05V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.31W    BE: 1
+Unbounded DC: -1.051 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.60V |  0.00V |  0.00V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.55W    BE: 1
+Unbounded DC: -0.766 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.63V |  0.03V |  0.00V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.58W    BE: 1
+Unbounded DC: -0.483 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.03V |  0.00V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.86V    Iin:  1.37A |  0.01A |  0.01A    Pin: 69.31W    BE: 1
+Unbounded DC: -0.201 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.00 | 0.00 | 0.00    Vin: 50.58V |  0.05V |  0.03V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.94V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.51W    BE: 1
+Unbounded DC: 0.083 | DC: 0.083 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+DC: 0.08 | 0.00 | 0.00    Vin: 50.60V |  0.20V |  0.05V   Vref: 40.25V | 30.25V | 30.25V    Vout: 49.86V    Iin:  1.37A |  0.02A |  0.01A    Pin: 69.55W    BE: 1
+Unbounded DC: 0.343 | DC: 0.343 | Vin: 50.12 | Vref: 40.50 | Error: 00.16 | p_: 00.15 | i_: 00.15
+DC: 0.34 | 0.00 | 0.00    Vin: 50.12V |  0.05V |  0.05V   Vref: 40.50V | 30.50V | 30.00V    Vout: 54.86V    Iin:  1.69A |  0.02A |  0.01A    Pin: 84.78W    BE: 1
+Unbounded DC: 0.517 | DC: 0.517 | Vin: 47.12 | Vref: 40.50 | Error: 00.11 | p_: 00.15 | i_: 00.15
+DC: 0.52 | 0.00 | 0.00    Vin: 47.12V |  0.05V |  0.05V   Vref: 40.50V | 30.50V | 30.00V    Vout: 72.66V    Iin:  3.12A |  0.02A |  0.01A    Pin: 146.94W    BE: 1
+Unbounded DC: 0.261 | DC: 0.261 | Vin: 32.51 | Vref: 40.50 | Error: -0.13 | p_: 00.15 | i_: 00.15
+DC: 0.26 | 0.00 | 0.00    Vin: 32.51V |  0.00V |  0.05V   Vref: 40.50V | 30.50V | 30.00V    Vout: 68.23V    Iin:  4.04A |  0.02A |  0.02A    Pin: 131.24W    BE: 1
+Unbounded DC: 0.523 | DC: 0.523 | Vin: 48.59 | Vref: 40.50 | Error: 00.13 | p_: 00.15 | i_: 00.15
+DC: 0.52 | 0.00 | 0.00    Vin: 48.59V |  0.03V |  0.05V   Vref: 40.50V | 30.50V | 30.00V    Vout: 66.34V    Iin:  2.55A |  0.02A |  0.01A    Pin: 123.88W    BE: 1
+Unbounded DC: 0.241 | DC: 0.241 | Vin: 31.74 | Vref: 40.50 | Error: -0.15 | p_: 00.15 | i_: 00.15
+DC: 0.24 | 0.00 | 0.00    Vin: 31.74V |  0.00V |  0.08V   Vref: 40.50V | 30.50V | 30.00V    Vout: 67.41V    Iin:  4.03A |  0.02A |  0.01A    Pin: 127.90W    BE: 1
+Unbounded DC: 0.512 | DC: 0.512 | Vin: 48.85 | Vref: 40.50 | Error: 00.14 | p_: 00.15 | i_: 00.15
+DC: 0.51 | 0.00 | 0.00    Vin: 48.85V |  0.03V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 64.87V    Iin:  2.43A |  0.02A |  0.01A    Pin: 118.57W    BE: 1
+Unbounded DC: 0.271 | DC: 0.271 | Vin: 33.12 | Vref: 40.50 | Error: -0.12 | p_: 00.15 | i_: 00.15
+DC: 0.27 | 0.00 | 0.00    Vin: 33.12V |  0.05V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 68.89V    Iin:  4.05A |  0.02A |  0.01A    Pin: 133.98W    BE: 1
+Unbounded DC: 0.528 | DC: 0.528 | Vin: 48.49 | Vref: 40.50 | Error: 00.13 | p_: 00.15 | i_: 00.15
+DC: 0.53 | 0.00 | 0.00    Vin: 48.49V |  0.03V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 67.08V    Iin:  2.62A |  0.02A |  0.01A    Pin: 127.17W    BE: 1
+Unbounded DC: 0.224 | DC: 0.224 | Vin: 30.98 | Vref: 40.50 | Error: -0.16 | p_: 00.15 | i_: 00.15
+DC: 0.22 | 0.00 | 0.00    Vin: 30.98V |  0.00V |  0.05V   Vref: 40.50V | 30.50V | 30.00V    Vout: 66.67V    Iin:  4.04A |  0.02A |  0.02A    Pin: 125.08W    BE: 1
+Unbounded DC: 0.503 | DC: 0.503 | Vin: 49.08 | Vref: 40.50 | Error: 00.14 | p_: 00.15 | i_: 00.15
+DC: 0.50 | 0.00 | 0.00    Vin: 49.08V |  0.03V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 63.64V    Iin:  2.33A |  0.02A |  0.01A    Pin: 114.34W    BE: 1
+Unbounded DC: 0.296 | DC: 0.296 | Vin: 34.29 | Vref: 40.50 | Error: -0.10 | p_: 00.15 | i_: 00.15
+DC: 0.30 | 0.00 | 0.00    Vin: 34.29V |  0.00V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 70.12V    Iin:  4.06A |  0.02A |  0.02A    Pin: 139.27W    BE: 1
+Unbounded DC: 0.540 | DC: 0.540 | Vin: 48.14 | Vref: 40.50 | Error: 00.13 | p_: 00.15 | i_: 00.15
+DC: 0.54 | 0.00 | 0.00    Vin: 48.14V |  0.03V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 63.56V    Iin:  2.78A |  0.02A |  0.01A    Pin: 133.87W    BE: 1
+Unbounded DC: 0.193 | DC: 0.193 | Vin: 29.55 | Vref: 40.50 | Error: -0.18 | p_: 00.15 | i_: 00.15
+DC: 0.19 | 0.00 | 0.00    Vin: 29.55V |  0.03V |  0.00V   Vref: 40.50V | 30.50V | 30.00V    Vout: 65.11V    Iin:  4.09A |  0.02A |  0.02A    Pin: 120.88W    BE: 1
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 49.38 | Vref: 40.50 | Error: 00.15 | p_: 00.15 | i_: 00.15
+DC: 0.49 | 0.00 | 0.00    Vin: 49.38V |  0.03V |  0.00V   Vref: 40.50V | 30.50V | 30.00V    Vout: 61.75V    Iin:  2.17A |  0.02A |  0.01A    Pin: 107.22W    BE: 1
+Unbounded DC: 0.349 | DC: 0.349 | Vin: 36.66 | Vref: 40.50 | Error: -0.06 | p_: 00.15 | i_: 00.15
+DC: 0.35 | 0.00 | 0.00    Vin: 36.66V |  0.03V |  0.05V   Vref: 40.50V | 30.50V | 30.00V    Vout: 72.33V    Iin:  4.03A |  0.02A |  0.01A    Pin: 147.55W    BE: 1
+Unbounded DC: 0.554 | DC: 0.554 | Vin: 47.02 | Vref: 40.50 | Error: 00.11 | p_: 00.15 | i_: 00.15
+DC: 0.55 | 0.00 | 0.00    Vin: 47.02V |  0.05V |  0.03V   Vref: 40.50V | 30.50V | 30.00V    Vout: 73.07V    Iin:  3.18A |  0.02A |  0.02A    Pin: 149.30W    BE: 1
+Unbounded DC: 0.151 | DC: 0.151 | Vin: 27.85 | Vref: 40.75 | Error: -0.22 | p_: 00.15 | i_: 00.15
+DC: 0.15 | 0.00 | 0.00    Vin: 27.85V |  0.05V |  0.08V   Vref: 40.75V | 30.25V | 29.75V    Vout: 63.39V    Iin:  4.07A |  0.02A |  0.01A    Pin: 113.23W    BE: 1
+Unbounded DC: 0.453 | DC: 0.453 | Vin: 49.74 | Vref: 40.75 | Error: 00.15 | p_: 00.15 | i_: 00.15
+DC: 0.45 | 0.00 | 0.00    Vin: 49.74V |  0.05V |  0.00V   Vref: 40.75V | 30.25V | 29.75V    Vout: 58.96V    Iin:  1.95A |  0.02A |  0.01A    Pin: 96.87W    BE: 1
+Unbounded DC: 0.445 | DC: 0.445 | Vin: 41.26 | Vref: 40.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+DC: 0.45 | 0.00 | 0.00    Vin: 41.26V |  0.00V |  0.05V   Vref: 40.75V | 30.25V | 29.75V    Vout: 76.35V    Iin:  3.95A |  0.02A |  0.02A    Pin: 163.08W    BE: 1
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 42.08 | Vref: 40.75 | Error: 00.02 | p_: 00.15 | i_: 00.15
+DC: 0.48 | 0.00 | 0.00    Vin: 42.08V |  0.00V |  0.08V   Vref: 40.75V | 30.25V | 29.75V    Vout: 76.92V    Iin:  3.95A |  0.02A |  0.02A    Pin: 166.30W    BE: 1
+Unbounded DC: 0.364 | DC: 0.364 | Vin: 36.86 | Vref: 40.75 | Error: -0.06 | p_: 00.15 | i_: 00.15
+DC: 0.36 | 0.00 | 0.00    Vin: 36.86V |  0.05V |  0.05V   Vref: 40.75V | 30.25V | 29.75V    Vout: 72.58V    Iin:  4.02A |  0.02A |  0.01A    Pin: 148.22W    BE: 1
+Unbounded DC: 0.549 | DC:    DC: 0.10   V: 49.92V |  0.00V |  0.00V   P: 91.94W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.12   V: 49.97V |  0.00V |  0.00V   P: 91.43W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.14   V: 49.87V |  0.00V |  0.05V   P: 95.29W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.16   V: 49.66V |  0.03V |  0.05V   P: 99.15W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.18   V: 49.48V |  0.08V |  0.05V   P: 104.02W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.20   V: 49.31V |  0.10V |  0.13V   P: 108.46W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.22   V: 49.13V |  0.13V |  0.13V   P: 112.86W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.24   V: 48.90V |  0.15V |  0.13V   P: 118.70W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.26   V: 48.62V |  0.20V |  0.18V   P: 123.95W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.28   V: 48.34V |  0.18V |  0.18V   P: 128.74W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.30   V: 47.98V |  0.10V |  0.08V   P: 134.23W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.32   V: 47.65V |  0.00V |  0.00V   P: 139.69W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.34   V: 47.24V |  0.00V |  0.00V   P: 146.57W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.36   V: 46.71V |  0.00V |  0.00V   P: 153.65W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.38   V: 46.02V |  0.00V |  0.00V   P: 159.43W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.40   V: 45.18V |  0.00V |  0.00V   P: 162.58W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.42   V: 44.11V |  0.00V |  0.00V   P: 165.91W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 42.61V |  0.00V |  0.00V   P: 167.89W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 40.45V |  0.00V |  0.00V   P: 161.66W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 37.75V |  0.00V |  0.00V   P: 150.27W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 35.05V |  0.00V |  0.00V   P: 140.67W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 32.46V |  0.00V |  0.00V   P: 131.83W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 29.91V |  0.00V |  0.00V   P: 121.98W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 27.39V |  0.00V |  0.00V   P: 111.37W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 24.97V |  0.03V |  0.05V   P: 102.55W |  0.02W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 22.66V |  0.03V |  0.05V   P: 92.57W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.44 | 0.58 | 0.26
+//  MPP POWER: 167.89W |  0.02W |  0.00W
+//  MPP Vin: 42.61 |  0.03 |  0.18
+//
+/////////////////////////////
+Unbounded DC: -8.661 | DC: 0.000 | Vin: 22.32 | Vref: 40.00 | Error: -0.29 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.481 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.370 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.259 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.148 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.036 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.926 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.815 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.705 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.594 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.483 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.372 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.261 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.151 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.041 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.933 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.826 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.717 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.608 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.501 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.393 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.285 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.178 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.070 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.962 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.854 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.747 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.639 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.531 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.424 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.317 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.205 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.095 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.985 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.875 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.765 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.654 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.544 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.433 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.323 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.213 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.103 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.993 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.883 | DC: 0.000 | Vin: 50.55 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.772 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.662 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.552 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.439 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.326 | DC: 0.000 | Vin: 50.60 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.213 | DC: 0.000 | Vin: 50.60 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.100 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.987 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.874 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.761 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.649 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.536 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.424 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.311 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.197 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.085 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.972 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.859 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.747 | DC: 0.000 | Vin: 50.58 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.631 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.515 | DC: 0.000 | Vin: 50.55 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.400 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.284 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.169 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.054 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.939 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.824 | DC: 0.000 | Vin: 50.53 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.708 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.593 | DC: 0.000 | Vin: 50.55 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.477 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.362 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.248 | DC: 0.000 | Vin: 50.53 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.132 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.017 | DC: 0.000 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.099 | DC: 0.099 | Vin: 50.58 | Vref: 39.50 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.209 | DC: 0.209 | Vin: 50.02 | Vref: 39.25 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.309 | DC: 0.309 | Vin: 49.15 | Vref: 39.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.395 | DC: 0.395 | Vin: 47.86 | Vref: 39.25 | Error: 00.14 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.452 | DC: 0.452 | Vin: 45.44 | Vref: 39.25 | Error: 00.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.461 | DC: 0.461 | Vin: 41.16 | Vref: 39.25 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 39.99 | Vref: 39.25 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 39.30 | Vref: 39.25 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 39.43 | Vref: 39.25 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 39.18 | Vref: 39.25 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 39.28 | Vref: 39.25 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 39.33 | Vref: 39.25 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 39.20 | Vref: 39.25 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 39.30 | Vref: 39.25 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 39.18 | Vref: 39.25 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 39.30 | Vref: 39.25 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 39.15 | Vref: 39.25 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.470 | DC: 0.470 | Vin: 39.30 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 38.79 | Vref: 39.00 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 39.33 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 38.64 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 39.33 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 38.62 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 39.43 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.464 | DC: 0.464 | Vin: 38.51 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 39.53 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.464 | DC: 0.464 | Vin: 38.51 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 39.43 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 38.62 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 39.43 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.464 | DC: 0.464 | Vin: 38.51 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 39.51 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 38.51 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 39.38 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 38.23 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 39.25 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 38.21 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 39.38 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 38.31 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 39.12 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 38.21 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 39.43 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 37.95 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 39.53 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.464 | DC: 0.464 | Vin: 38.00 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.476 | DC: 0.476 | Vin: 39.53 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.464 | DC: 0.464 | Vin: 37.98 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.476 | DC: 0.476 | Vin: 39.53 | Vref: 38.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 37.85 | Vref: 38.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 39.63 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 38.36 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 39.63 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 38.36 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 39.68 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 38.21 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 39.79 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 38.23 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 39.79 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 38.21 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 39.81 | Vref: 39.00 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.461 | DC: 0.461 | Vin: 38.11 | Vref: 39.00 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.476 | DC: 0.476 | Vin: 39.99 | Vref: 39.00 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.460 | DC: 0.460 | Vin: 38.00 | Vref: 39.00 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 40.09 | Vref: 39.00 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.459 | DC: 0.459 | Vin: 37.85 | Vref: 39.00 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 40.19 | Vref: 39.25 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.457 | DC: 0.457 | Vin: 38.11 | Vref: 39.25 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 40.52 | Vref: 39.25 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.455 | DC: 0.455 | Vin: 37.83 | Vref: 39.25 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 40.75 | Vref: 39.25 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.453 | DC: 0.453 | Vin: 37.60 | Vref: 39.25 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.480 | DC: 0.480 | Vin: 41.01 | Vref: 39.25 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.452 | DC: 0.452 | Vin: 37.44 | Vref: 39.25 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.481 | DC: 0.481 | Vin: 41.16 | Vref: 39.25 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.450 | DC: 0.450 | Vin: 37.19 | Vref: 39.25 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 41.52 | Vref: 39.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.447 | DC: 0.447 | Vin: 36.83 | Vref: 39.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 41.77 | Vref: 39.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.445 | DC: 0.445 | Vin: 36.58 | Vref: 39.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 41.98 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.444 | DC: 0.444 | Vin: 36.45 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 42.18 | Vref: 39.50 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.443 | DC: 0.443 | Vin: 36.66 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.485 | DC: 0.485 | Vin: 42.28 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 36.68 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.485 | DC: 0.485 | Vin: 42.28 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 36.68 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 42.38 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.58 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.48 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.45 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.59 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.59 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.56 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 42.59 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.83 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 42.59 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.94 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.46 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.46 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.485 | DC: 0.485 | Vin: 42.38 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 36.68 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 42.38 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.55 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.48 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.45 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.59 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.45 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 42.48 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.58 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 42.38 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.58 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.48 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.56 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 42.59 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.86 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.59 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.96 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.99 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.14 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.11 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.479 | DC: 0.479 | Vin: 42.38 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.47 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+   DC: 0.10   V: 50.22V |  0.00V |  0.00V   P: 87.60W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.12   V: 50.02V |  0.00V |  0.00V   P: 90.91W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.14   V: 49.89V |  0.00V |  0.00V   P: 95.75W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.16   V: 49.74V |  0.03V |  0.05V   P: 100.11W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.18   V: 49.56V |  0.05V |  0.08V   P: 103.17W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.20   V: 49.38V |  0.10V |  0.08V   P: 107.82W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.22   V: 49.20V |  0.10V |  0.13V   P: 113.84W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.24   V: 48.92V |  0.13V |  0.15V   P: 118.76W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.26   V: 48.70V |  0.18V |  0.18V   P: 122.56W |  0.01W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.28   V: 48.39V |  0.18V |  0.15V   P: 128.48W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.30   V: 48.11V |  0.10V |  0.10V   P: 136.15W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.32   V: 47.73V |  0.00V |  0.00V   P: 139.92W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.34   V: 47.32V |  0.00V |  0.00V   P: 147.96W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.36   V: 46.76V |  0.00V |  0.00V   P: 154.19W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.38   V: 46.05V |  0.00V |  0.00V   P: 157.83W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.40   V: 45.23V |  0.00V |  0.00V   P: 162.77W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.42   V: 44.16V |  0.00V |  0.00V   P: 168.26W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 42.64V |  0.00V |  0.00V   P: 166.43W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 40.45V |  0.00V |  0.00V   P: 160.02W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 37.75V |  0.00V |  0.00V   P: 151.80W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 35.05V |  0.00V |  0.00V   P: 141.81W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 32.46V |  0.00V |  0.00V   P: 130.64W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 29.86V |  0.00V |  0.03V   P: 120.80W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 27.39V |  0.00V |  0.00V   P: 111.92W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 24.95V |  0.00V |  0.00V   P: 102.34W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 22.63V |  0.03V |  0.00V   P: 92.93W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.44V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.42 | 0.58 | 0.26
+//  MPP POWER: 168.26W |  0.02W |  0.00W
+//  MPP Vin: 44.16 |  0.03 |  0.18
+//
+/////////////////////////////
+Unbounded DC: -8.239 | DC: 0.000 | Vin: 22.27 | Vref: 40.00 | Error: -0.30 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.058 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.947 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.835 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.724 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.611 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.500 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.389 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.277 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.166 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.055 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.943 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.832 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.721 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.606 | DC: 0.000 | Vin: 50.68 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.493 | DC: 0.000 | Vin: 50.68 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.379 | DC: 0.000 | Vin: 50.68 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.266 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.151 | DC: 0.000 | Vin: 50.68 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.037 | DC: 0.000 | Vin: 50.68 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.924 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.811 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.698 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.585 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.472 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.357 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.244 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.131 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.018 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.905 | DC: 0.000 | Vin: 50.63 | Vref: 39.75 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.795 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.683 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.573 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.462 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.352 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.241 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.130 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.020 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.909 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.798 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.688 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.577 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.467 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.356 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.244 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.134 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.027 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.919 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.811 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.703 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.595 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.486 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.378 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.270 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.163 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.055 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.947 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.839 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.730 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.622 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.515 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.407 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.296 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.186 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.075 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.965 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.854 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.744 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.634 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.524 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.414 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.302 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.192 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.082 | DC: 0.000 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.028 | DC: 0.028 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.135 | DC: 0.135 | Vin: 50.43 | Vref: 40.00 | Error: 00.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.234 | DC: 0.234 | Vin: 49.76 | Vref: 40.00 | Error: 00.16 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.324 | DC: 0.324 | Vin: 48.95 | Vref: 40.00 | Error: 00.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.402 | DC: 0.402 | Vin: 47.55 | Vref: 39.75 | Error: 00.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.451 | DC: 0.451 | Vin: 45.08 | Vref: 39.75 | Error: 00.09 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.459 | DC: 0.459 | Vin: 41.44 | Vref: 39.75 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.461 | DC: 0.461 | Vin: 40.24 | Vref: 39.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 39.99 | Vref: 39.75 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 39.68 | Vref: 39.75 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 39.81 | Vref: 39.75 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 39.68 | Vref: 39.75 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 39.84 | Vref: 39.75 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 39.71 | Vref: 39.75 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 39.84 | Vref: 39.75 | Error: 00.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.460 | DC: 0.460 | Vin: 39.53 | Vref: 39.75 | Error: -0.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.465 | DC: 0.465 | Vin: 40.09 | Vref: 39.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.460 | DC: 0.460 | Vin: 39.43 | Vref: 39.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 40.22 | Vref: 39.75 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.459 | DC: 0.459 | Vin: 39.18 | Vref: 39.75 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.470 | DC: 0.470 | Vin: 40.24 | Vref: 39.50 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.458 | DC: 0.458 | Vin: 38.77 | Vref: 39.50 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 40.35 | Vref: 39.50 | Error: 00.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.458 | DC: 0.458 | Vin: 38.62 | Vref: 39.50 | Error: -0.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 40.50 | Vref: 39.50 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.456 | DC: 0.456 | Vin: 38.39 | Vref: 39.50 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 40.65 | Vref: 39.50 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.455 | DC: 0.455 | Vin: 38.26 | Vref: 39.50 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 40.86 | Vref: 39.50 | Error: 00.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.453 | DC: 0.453 | Vin: 38.00 | Vref: 39.50 | Error: -0.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 41.16 | Vref: 39.50 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.450 | DC: 0.450 | Vin: 37.70 | Vref: 39.50 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.480 | DC: 0.480 | Vin: 41.44 | Vref: 39.50 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.447 | DC: 0.447 | Vin: 37.34 | Vref: 39.50 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 41.75 | Vref: 39.50 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.447 | DC: 0.447 | Vin: 37.22 | Vref: 39.50 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 41.87 | Vref: 39.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.445 | DC: 0.445 | Vin: 36.58 | Vref: 39.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 41.98 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.443 | DC: 0.443 | Vin: 36.38 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.489 | DC: 0.489 | Vin: 42.28 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 36.15 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.489 | DC: 0.489 | Vin: 42.38 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.04 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.489 | DC: 0.489 | Vin: 42.43 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 36.17 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 42.38 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.04 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 42.43 | Vref: 39.25 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.02 | Vref: 39.25 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.491 | DC: 0.491 | Vin: 42.56 | Vref: 39.25 | Error: 00.06 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 35.92 | Vref: 39.25 | Error: -0.06 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.488 | DC: 0.488 | Vin: 42.56 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 | DC: 0.439 | Vin: 36.27 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.66 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.45 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 42.48 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 36.55 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.48 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.48 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.56 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.59 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.59 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.487 | DC: 0.487 | Vin: 42.59 | Vref: 39.50 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.43 | Vref: 39.50 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 42.56 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 | DC: 0.439 | Vin: 36.78 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.484 | DC: 0.484 | Vin: 42.64 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 36.94 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.04 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.09 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.38 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.04 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.46 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.06 | Vref: 39.75 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.483 | DC: 0.483 | Vin: 42.48 | Vref: 39.75 | Error: 00.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.04 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.43 | Vref: 39.75 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.04 | Vref: 39.75 | Error: -0.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.479 | DC: 0.479 | Vin: 42.43 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.55 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.479 | DC: 0.479 | Vin: 42.46 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 37.44 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.480 | DC: 0.480 | Vin: 42.59 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 37.44 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 42.46 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.55 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 42.43 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.55 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 42.43 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 37.70 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 42.36 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.57 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.479 | DC: 0.479 | Vin: 42.48 | Vref: 40.00 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 37.44 | Vref: 40.00 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.476 | DC: 0.476 | Vin: 42.54 | Vref: 40.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 37.95 | Vref: 40.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 42.43 | Vref: 40.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 38.06 | Vref: 40.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 42.46 | Vref: 40.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 38.08 | Vref: 40.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 42.46 | Vref: 40.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.11 | Vref: 40.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.474 | DC: 0.474 | Vin: 42.33 | Vref: 40.25 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.21 | Vref: 40.25 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 42.28 | Vref: 40.25 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.21 | Vref: 40.25 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 42.38 | Vref: 40.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.08 | Vref: 40.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 42.38 | Vref: 40.25 | Error: 00.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.11 | Vref: 40.25 | Error: -0.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 42.38 | Vref: 40.50 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 38.46 | Vref: 40.50 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 42.46 | Vref: 40.50 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.62 | Vref: 40.50 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.470 | DC: 0.470 | Vin: 42.38 | Vref: 40.50 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 38.59 | Vref: 40.50 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.471 | DC: 0.471 | Vin: 42.43 | Vref: 40.50 | Error: 00.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.442 | DC: 0.442 | Vin: 38.62 | Vref: 40.50 | Error: -0.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.470 |    DC: 0.10   V: 49.97V |  0.00V |  0.00V   P: 92.04W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.12   V: 50.04V |  0.00V |  0.00V   P: 91.57W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.14   V: 49.89V |  0.00V |  0.03V   P: 95.14W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.16   V: 49.74V |  0.03V |  0.05V   P: 98.89W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.18   V: 49.59V |  0.08V |  0.08V   P: 104.24W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.20   V: 49.41V |  0.13V |  0.13V   P: 108.68W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.22   V: 49.15V |  0.10V |  0.13V   P: 112.72W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.24   V: 48.95V |  0.13V |  0.15V   P: 118.82W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.26   V: 48.67V |  0.15V |  0.20V   P: 124.28W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.28   V: 48.42V |  0.15V |  0.20V   P: 128.15W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.30   V: 48.06V |  0.10V |  0.08V   P: 134.64W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.32   V: 47.73V |  0.00V |  0.00V   P: 139.92W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.34   V: 47.27V |  0.00V |  0.00V   P: 146.26W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.36   V: 46.76V |  0.00V |  0.00V   P: 154.19W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.38   V: 46.05V |  0.00V |  0.00V   P: 159.71W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.40   V: 45.18V |  0.00V |  0.00V   P: 162.40W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.42   V: 44.09V |  0.00V |  0.00V   P: 165.82W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 42.56V |  0.00V |  0.00V   P: 167.51W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 40.35V |  0.00V |  0.00V   P: 160.60W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 37.65V |  0.00V |  0.00V   P: 149.40W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 34.90V |  0.00V |  0.00V   P: 139.49W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 32.38V |  0.00V |  0.00V   P: 130.99W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 29.81V |  0.00V |  0.05V   P: 120.96W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 27.26V |  0.00V |  0.03V   P: 110.29W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 24.82V |  0.05V |  0.05V   P: 101.62W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 22.55V |  0.03V |  0.08V   P: 91.79W |  0.00W |  0.00W   MPP V:  0.00V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.44 | 0.26 | 0.26
+//  MPP POWER: 167.51W |  0.00W |  0.00W
+//  MPP Vin: 42.56 |  0.15 |  0.20
+//
+/////////////////////////////
+Unbounded DC: -8.711 | DC: 0.000 | Vin: 22.22 | Vref: 40.00 | Error: -0.30 | Integral: -57.78 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.508 | DC: 0.000 | Vin: 50.78 | Vref: 40.00 | Error: 00.18 | Integral: -56.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.375 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -56.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.242 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -55.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.109 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -54.24 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.976 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -53.35 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.844 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -52.47 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.711 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -51.58 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.578 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | Integral: -50.70 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.445 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | Integral: -49.81 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.313 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | Integral: -48.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.179 | DC: 0.000 | Vin: 50.73 | Vref: 40.00 | Error: 00.18 | Integral: -48.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.047 | DC: 0.000 | Vin: 50.71 | Vref: 40.00 | Error: 00.18 | Integral: -47.16 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.914 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | Integral: -46.27 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.782 | DC: 0.000 | Vin: 50.68 | Vref: 40.00 | Error: 00.18 | Integral: -45.39 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.653 | DC: 0.000 | Vin: 50.71 | Vref: 40.25 | Error: 00.17 | Integral: -44.53 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.523 | DC: 0.000 | Vin: 50.68 | Vref: 40.25 | Error: 00.17 | Integral: -43.66 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.395 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -42.81 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.265 | DC: 0.000 | Vin: 50.71 | Vref: 40.25 | Error: 00.17 | Integral: -41.94 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.136 | DC: 0.000 | Vin: 50.66 | Vref: 40.25 | Error: 00.17 | Integral: -41.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.007 | DC: 0.000 | Vin: 50.68 | Vref: 40.25 | Error: 00.17 | Integral: -40.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.878 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -39.36 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.749 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -38.50 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.622 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -37.65 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.493 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -36.79 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.364 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -35.94 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.236 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -35.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.106 | DC: 0.000 | Vin: 50.66 | Vref: 40.25 | Error: 00.17 | Integral: -34.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.978 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -33.36 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.849 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -32.50 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.720 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -31.64 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.588 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -30.76 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.456 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -29.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.324 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -29.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.193 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -28.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.061 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -27.25 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.929 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -26.37 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.797 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -25.49 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.665 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -24.61 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.533 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -23.73 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.403 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -22.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.271 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -21.98 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.139 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -21.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.007 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -20.23 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.875 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -19.35 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.744 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -18.47 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.612 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -17.59 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.484 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -16.73 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.355 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -15.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.226 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -15.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.098 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | Integral: -14.16 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.970 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | Integral: -13.31 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.842 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | Integral: -12.45 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.713 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -11.59 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.585 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | Integral: -10.74 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.456 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | Integral: -9.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.330 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -9.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.202 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | Integral: -8.19 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.074 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -7.34 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.947 | DC: 0.000 | Vin: 50.60 | Vref: 40.25 | Error: 00.17 | Integral: -6.49 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.819 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -5.64 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.692 | DC: 0.000 | Vin: 50.58 | Vref: 40.25 | Error: 00.17 | Integral: -4.79 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.565 | DC: 0.000 | Vin: 50.63 | Vref: 40.25 | Error: 00.17 | Integral: -3.94 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.434 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | Integral: -3.07 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.303 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -2.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.173 | DC: 0.000 | Vin: 50.58 | Vref: 40.00 | Error: 00.18 | Integral: -1.33 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.043 | DC: 0.000 | Vin: 50.63 | Vref: 40.00 | Error: 00.18 | Integral: -0.47 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.087 | DC: 0.087 | Vin: 50.60 | Vref: 40.00 | Error: 00.18 | Integral: 00.40 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.209 | DC: 0.209 | Vin: 50.12 | Vref: 40.00 | Error: 00.17 | Integral: 01.23 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.319 | DC: 0.319 | Vin: 49.15 | Vref: 40.00 | Error: 00.15 | Integral: 01.97 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.408 | DC: 0.408 | Vin: 47.63 | Vref: 40.00 | Error: 00.13 | Integral: 02.59 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.458 | DC: 0.458 | Vin: 44.72 | Vref: 40.00 | Error: 00.08 | Integral: 02.98 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.450 | DC: 0.450 | Vin: 40.27 | Vref: 40.00 | Error: 00.00 | Integral: 03.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.469 | DC: 0.469 | Vin: 41.34 | Vref: 40.00 | Error: 00.02 | Integral: 03.11 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.448 | DC: 0.448 | Vin: 38.77 | Vref: 40.00 | Error: -0.02 | Integral: 03.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.475 | DC: 0.475 | Vin: 41.67 | Vref: 40.00 | Error: 00.03 | Integral: 03.14 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 37.90 | Vref: 40.00 | Error: -0.03 | Integral: 02.97 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 42.48 | Vref: 40.00 | Error: 00.04 | Integral: 03.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.432 | DC: 0.432 | Vin: 36.99 | Vref: 40.00 | Error: -0.05 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.491 | DC: 0.491 | Vin: 43.25 | Vref: 39.75 | Error: 00.06 | Integral: 03.21 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 35.82 | Vref: 39.75 | Error: -0.07 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.500 | DC: 0.500 | Vin: 44.22 | Vref: 39.75 | Error: 00.07 | Integral: 03.26 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.414 | DC: 0.414 | Vin: 34.64 | Vref: 39.75 | Error: -0.09 | Integral: 02.84 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.495 | DC: 0.495 | Vin: 44.44 | Vref: 39.75 | Error: 00.08 | Integral: 03.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.416 | DC: 0.416 | Vin: 35.15 | Vref: 39.75 | Error: -0.08 | Integral: 02.85 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.495 | DC: 0.495 | Vin: 44.32 | Vref: 39.75 | Error: 00.08 | Integral: 03.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.417 | DC: 0.417 | Vin: 35.26 | Vref: 39.75 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.494 | DC: 0.494 | Vin: 44.27 | Vref: 39.75 | Error: 00.08 | Integral: 03.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.417 | DC: 0.417 | Vin: 35.26 | Vref: 39.75 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.495 | DC: 0.495 | Vin: 44.29 | Vref: 39.75 | Error: 00.08 | Integral: 03.23 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.418 | DC: 0.418 | Vin: 35.31 | Vref: 39.75 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.494 | DC: 0.494 | Vin: 44.16 | Vref: 39.75 | Error: 00.07 | Integral: 03.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.418 | DC: 0.418 | Vin: 35.31 | Vref: 39.75 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.495 | DC: 0.495 | Vin: 44.22 | Vref: 39.75 | Error: 00.07 | Integral: 03.22 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.419 | DC: 0.419 | Vin: 35.31 | Vref: 39.75 | Error: -0.07 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.491 | DC: 0.491 | Vin: 44.14 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.419 | DC: 0.419 | Vin: 35.82 | Vref: 40.00 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.491 | DC: 0.491 | Vin: 44.19 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.419 | DC: 0.419 | Vin: 35.82 | Vref: 40.00 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.491 | DC: 0.491 | Vin: 44.19 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.419 | DC: 0.419 | Vin: 35.82 | Vref: 40.00 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 44.16 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.420 | DC: 0.420 | Vin: 35.94 | Vref: 40.00 | Error: -0.07 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 44.06 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.421 | DC: 0.421 | Vin: 35.97 | Vref: 40.00 | Error: -0.07 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 44.06 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.418 | DC: 0.418 | Vin: 35.79 | Vref: 40.00 | Error: -0.07 | Integral: 02.86 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 44.16 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.421 | DC: 0.421 | Vin: 35.94 | Vref: 40.00 | Error: -0.07 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.490 | DC: 0.490 | Vin: 44.01 | Vref: 40.00 | Error: 00.07 | Integral: 03.20 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.420 | DC: 0.420 | Vin: 35.97 | Vref: 40.00 | Error: -0.07 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 44.01 | Vref: 40.25 | Error: 00.06 | Integral: 03.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.421 | DC: 0.421 | Vin: 36.48 | Vref: 40.25 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 44.01 | Vref: 40.25 | Error: 00.06 | Integral: 03.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.420 | DC: 0.420 | Vin: 36.45 | Vref: 40.25 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.485 | DC: 0.485 | Vin: 44.01 | Vref: 40.25 | Error: 00.06 | Integral: 03.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.421 | DC: 0.421 | Vin: 36.58 | Vref: 40.25 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 43.99 | Vref: 40.25 | Error: 00.06 | Integral: 03.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 36.60 | Vref: 40.25 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 43.91 | Vref: 40.25 | Error: 00.06 | Integral: 03.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.422 | DC: 0.422 | Vin: 36.58 | Vref: 40.25 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.485 | DC: 0.485 | Vin: 43.91 | Vref: 40.25 | Error: 00.06 | Integral: 03.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 36.58 | Vref: 40.25 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 43.91 | Vref: 40.25 | Error: 00.06 | Integral: 03.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.421 | DC: 0.421 | Vin: 36.45 | Vref: 40.25 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.486 | DC: 0.486 | Vin: 44.06 | Vref: 40.25 | Error: 00.06 | Integral: 03.18 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.421 | DC: 0.421 | Vin: 36.48 | Vref: 40.25 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 43.96 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.14 | Vref: 40.50 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.481 | DC: 0.481 | Vin: 43.88 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.14 | Vref: 40.50 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 43.88 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 37.14 | Vref: 40.50 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.482 | DC: 0.482 | Vin: 43.88 | Vref: 40.50 | Error: 00.06 | Integral: 03.16 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.422 | DC: 0.422 | Vin: 36.99 | Vref: 40.50 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.481 | DC: 0.481 | Vin: 43.96 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 37.14 | Vref: 40.50 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.481 | DC: 0.481 | Vin: 43.83 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.14 | Vref: 40.50 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.481 | DC: 0.481 | Vin: 43.86 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.09 | Vref: 40.50 | Error: -0.06 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.481 | DC: 0.481 | Vin: 43.91 | Vref: 40.50 | Error: 00.06 | Integral: 03.15 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.11 | Vref: 40.50 | Error: -0.06 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.478 | DC: 0.478 | Vin: 43.91 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 37.62 | Vref: 40.75 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 43.86 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 37.65 | Vref: 40.75 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 43.86 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.60 | Vref: 40.75 | Error: -0.05 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 43.86 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.426 | DC: 0.426 | Vin: 37.78 | Vref: 40.75 | Error: -0.05 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.476 | DC: 0.476 | Vin: 43.71 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.425 | DC: 0.425 | Vin: 37.75 | Vref: 40.75 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 43.78 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 37.65 | Vref: 40.75 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 43.86 | Vref: 40.75 | Error: 00.05 | Integral: 03.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.423 | DC: 0.423 | Vin: 37.60 | Vref: 40.75 | Error: -0.05 | Integral: 02.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.477 | DC: 0.477 | Vin: 43.86 | Vref: 40.75 | Error: 00.05 | Integral: 03.12 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.425 | DC: 0.425 | Vin: 37.75 | Vref: 40.75 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 43.81 | Vref: 41.00 | Error: 00.05 | Integral: 03.11 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.424 | DC: 0.424 | Vin: 38.13 | Vref: 41.00 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 43.78 | Vref: 41.00 | Error: 00.05 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.426 | DC: 0.426 | Vin: 38.31 | Vref: 41.00 | Error: -0.04 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 43.71 | Vref: 41.00 | Error: 00.05 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.426 | DC: 0.426 | Vin: 38.28 | Vref: 41.00 | Error: -0.05 | Integral: 02.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.473 | DC: 0.473 | Vin: 43.71 | Vref: 41.00 | Error: 00.05 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.426 | DC: 0.426 | Vin: 38.31 | Vref: 41.00 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 43.66 | Vref: 41.00 | Error: 00.04 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.427 | DC: 0.427 | Vin: 38.41 | Vref: 41.00 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 43.58 | Vref: 41.00 | Error: 00.04 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.427 | DC: 0.427 | Vin: 38.41 | Vref: 41.00 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 43.60 | Vref: 41.00 | Error: 00.04 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.427 | DC: 0.427 | Vin: 38.41 | Vref: 41.00 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.472 | DC: 0.472 | Vin: 43.58 | Vref: 41.00 | Error: 00.04 | Integral: 03.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.427 | DC: 0.427 | Vin: 38.41 | Vref: 41.00 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.468 | DC: 0.468 | Vin: 43.60 | Vref: 41.25 | Error: 00.04 | Integral: 03.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.428 | DC: 0.428 | Vin: 38.92 | Vref: 41.25 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 43.50 | Vref: 41.25 | Error: 00.04 | Integral: 03.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.430 | DC: 0.430 | Vin: 39.07 | Vref: 41.25 | Error: -0.04 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 43.45 | Vref: 41.25 | Error: 00.04 | Integral: 03.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.428 | DC: 0.428 | Vin: 38.92 | Vref: 41.25 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.468 | DC: 0.468 | Vin: 43.58 | Vref: 41.25 | Error: 00.04 | Integral: 03.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.428 | DC: 0.428 | Vin: 38.92 | Vref: 41.25 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.468 | DC: 0.468 | Vin: 43.60 | Vref: 41.25 | Error: 00.04 | Integral: 03.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.428 | DC: 0.428 | Vin: 38.92 | Vref: 41.25 | Error: -0.04 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 43.50 | Vref: 41.25 | Error: 00.04 | Integral: 03.07 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.429 | DC: 0.429 | Vin: 39.07 | Vref: 41.25 | Error: -0.04 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.467 | DC: 0.467 | Vin: 43.45 | Vref: 41.25 | Error: 00.04 | Integral: 03.08 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.429 | DC: 0.429 | Vin: 39.07 | Vref: 41.25 | Error: -0.04 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.466 | DC: 0.466 | Vin: 43.40 | Vref: 41.25 | Error: 00.04 | Integral: 03.07 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.429 | DC: 0.429 | Vin: 39.07 | Vref: 41.25 | Error: -0.04 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 43.45 | Vref: 41.50 | Error: 00.03 | Integral: 03.06 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.430 | DC: 0.430 | Vin: 39.56 | Vref: 41.50 | Error: -0.03 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 43.38 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.432 | DC: 0.432 | Vin: 39.74 | Vref: 41.50 | Error: -0.03 | Integral: 02.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 43.30 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.430 | DC: 0.430 | Vin: 39.58 | Vref: 41.50 | Error: -0.03 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 43.38 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.432 | DC: 0.432 | Vin: 39.74 | Vref: 41.50 | Error: -0.03 | Integral: 02.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 43.30 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.431 | DC: 0.431 | Vin: 39.71 | Vref: 41.50 | Error: -0.03 | Integral: 02.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 43.30 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.432 | DC: 0.432 | Vin: 39.71 | Vref: 41.50 | Error: -0.03 | Integral: 02.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.463 | DC: 0.463 | Vin: 43.30 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.430 | DC: 0.430 | Vin: 39.58 | Vref: 41.50 | Error: -0.03 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.462 | DC: 0.462 | Vin: 43.35 | Vref: 41.50 | Error: 00.03 | Integral: 03.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.431 | DC: 0.431 | Vin: 39.71 | Vref: 41.50 | Error: -0.03 | Integral: 02.90 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.458 | DC: 0.458 | Vin: 43.27 | Vref: 41.75 | Error: 00.03 | Integral: 03.03 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.433 | DC: 0.433 | Vin: 40.30 | Vref: 41.75 | Error: -0.02 | Integral: 02.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.456 | DC: 0.456 | Vin: 43.10 | Vref: 41.75 | Error: 00.02 | Integral: 03.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.435 | DC: 0.435 | Vin: 40.55 | Vref: 41.75 | Error: -0.02 | Integral: 02.92 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.456 | DC: 0.456 | Vin: 42.94 | Vref: 41.75 | Error: 00.02 | Integral: 03.02 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.437 | DC: 0.437 | Vin: 40.65 | Vref: 41.75 | Error: -0.02 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.455 | DC: 0.455 | Vin: 42.79 | Vref: 41.75 | Error: 00.02 | Integral: 03.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.438 | DC: 0.438 | Vin: 40.80 | Vref: 41.75 | Error: -0.02 | Integral: 02.94 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.454 | DC: 0.454 | Vin: 42.69 | Vref: 41.75 | Error: 00.02 | Integral: 03.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.438 | DC: 0.438 | Vin: 40.78 | Vref: 41.75 | Error: -0.02 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.454 | DC: 0.454 | Vin: 42.69 | Vref: 41.75 | Error: 00.02 | Integral: 03.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 | DC: 0.439 | Vin: 40.93 | Vref: 41.75 | Error: -0.01 | Integral: 02.94 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.454 | DC: 0.454 | Vin: 42.59 | Vref: 41.75 | Error: 00.01 | Integral: 03.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 40.96 | Vref: 41.75 | Error: -0.01 | Integral: 02.95 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.453 | DC: 0.453 | Vin: 42.48 | Vref: 41.75 | Error: 00.01 | Integral: 03.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 41.06 | Vref: 41.75 | Error: -0.01 | Integral: 02.95 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.449 | DC: 0.449 | Vin: 42.43 | Vref: 42.00 | Error: 00.01 | Integral: 02.99 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.441 | DC: 0.441 | Vin: 41.54 | Vref: 42.00 | Error: -0.01 | Integral: 02.95 | p_: 00.15 | i_: 00.15
+   DC: 0.10   V: 50.22V |  0.00V |  0.00V   P: 87.81W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.12   V: 50.07V |  0.00V |  0.00V   P: 92.02W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.14   V: 49.92V |  0.00V |  0.00V   P: 94.99W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.16   V: 49.74V |  0.03V |  0.05V   P: 98.89W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.18   V: 49.54V |  0.10V |  0.08V   P: 103.73W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.20   V: 49.36V |  0.10V |  0.13V   P: 107.97W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.22   V: 49.13V |  0.13V |  0.10V   P: 113.66W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.24   V: 48.92V |  0.10V |  0.15V   P: 118.76W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.26   V: 48.70V |  0.18V |  0.20V   P: 123.15W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.28   V: 48.39V |  0.18V |  0.15V   P: 128.28W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.30   V: 48.06V |  0.13V |  0.10V   P: 135.61W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.32   V: 47.73V |  0.00V |  0.00V   P: 139.92W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.34   V: 47.27V |  0.00V |  0.00V   P: 147.61W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.36   V: 46.74V |  0.00V |  0.00V   P: 154.11W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.38   V: 46.05V |  0.00V |  0.00V   P: 158.21W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.40   V: 45.18V |  0.00V |  0.00V   P: 162.77W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.42   V: 44.11V |  0.00V |  0.00V   P: 167.35W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.44   V: 42.59V |  0.00V |  0.00V   P: 166.75W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.46   V: 40.32V |  0.00V |  0.00V   P: 160.01W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.48   V: 37.67V |  0.00V |  0.00V   P: 150.27W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.50   V: 34.92V |  0.00V |  0.00V   P: 140.72W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.52   V: 32.35V |  0.00V |  0.03V   P: 129.97W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.54   V: 29.81V |  0.00V |  0.03V   P: 120.35W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.56   V: 27.31V |  0.00V |  0.03V   P: 110.72W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.58   V: 24.87V |  0.00V |  0.00V   P: 101.62W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+   DC: 0.60   V: 22.58V |  0.03V |  0.05V   P: 92.08W |  0.00W |  0.00W   MPP V:  0.44V |  0.00V |  0.00V   MPP P:  0.00W |  0.00W |  0.00W   BE: 1
+/////////////////////////////
+// TARGET:
+//
+//  MPP DC: 0.44 | 0.26 | 0.26
+//  MPP POWER: 167.51W |  0.00W |  0.00W
+//  MPP Vin: 42.56 |  0.18 |  0.20
+//
+/////////////////////////////
+Unbounded DC: -9.247 | DC: 0.000 | Vin: 22.22 | Vref: 42.00 | Error: -0.33 | Integral: -61.32 | p_: 00.15 | i_: 00.15
+Unbounded DC: -9.069 | DC: 0.000 | Vin: 50.73 | Vref: 42.00 | Error: 00.15 | Integral: -60.60 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.961 | DC: 0.000 | Vin: 50.73 | Vref: 42.00 | Error: 00.15 | Integral: -59.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.852 | DC: 0.000 | Vin: 50.73 | Vref: 42.00 | Error: 00.15 | Integral: -59.16 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.744 | DC: 0.000 | Vin: 50.73 | Vref: 42.00 | Error: 00.15 | Integral: -58.44 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.636 | DC: 0.000 | Vin: 50.71 | Vref: 42.00 | Error: 00.15 | Integral: -57.72 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.528 | DC: 0.000 | Vin: 50.71 | Vref: 42.00 | Error: 00.15 | Integral: -57.00 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.421 | DC: 0.000 | Vin: 50.73 | Vref: 42.00 | Error: 00.15 | Integral: -56.28 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.313 | DC: 0.000 | Vin: 50.68 | Vref: 42.00 | Error: 00.14 | Integral: -55.57 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.206 | DC: 0.000 | Vin: 50.66 | Vref: 42.00 | Error: 00.14 | Integral: -54.85 | p_: 00.15 | i_: 00.15
+Unbounded DC: -8.098 | DC: 0.000 | Vin: 50.71 | Vref: 42.00 | Error: 00.15 | Integral: -54.13 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.990 | DC: 0.000 | Vin: 50.71 | Vref: 42.00 | Error: 00.15 | Integral: -53.41 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.882 | DC: 0.000 | Vin: 50.68 | Vref: 42.00 | Error: 00.14 | Integral: -52.69 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.775 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -51.98 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.665 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -51.25 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.555 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -50.51 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.444 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -49.78 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.334 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -49.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.224 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -48.31 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.113 | DC: 0.000 | Vin: 50.68 | Vref: 41.75 | Error: 00.15 | Integral: -47.57 | p_: 00.15 | i_: 00.15
+Unbounded DC: -7.003 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -46.84 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.893 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -46.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.783 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -45.37 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.674 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -44.64 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.564 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -43.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.454 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -43.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.344 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -42.44 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.233 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -41.70 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.123 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -40.97 | p_: 00.15 | i_: 00.15
+Unbounded DC: -6.013 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -40.24 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.907 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -39.52 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.800 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -38.81 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.693 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -38.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.586 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -37.38 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.479 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -36.67 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.372 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -35.96 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.265 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -35.24 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.158 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -34.53 | p_: 00.15 | i_: 00.15
+Unbounded DC: -5.051 | DC: 0.000 | Vin: 50.60 | Vref: 42.00 | Error: 00.14 | Integral: -33.82 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.944 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -33.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.838 | DC: 0.000 | Vin: 50.60 | Vref: 42.00 | Error: 00.14 | Integral: -32.40 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.731 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -31.68 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.624 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -30.97 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.517 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -30.26 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.410 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -29.54 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.304 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -28.83 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.194 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -28.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: -4.083 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -27.37 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.974 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -26.64 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.864 | DC: 0.000 | Vin: 50.60 | Vref: 41.75 | Error: 00.15 | Integral: -25.91 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.754 | DC: 0.000 | Vin: 50.63 | Vref: 41.75 | Error: 00.15 | Integral: -25.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.644 | DC: 0.000 | Vin: 50.60 | Vref: 41.75 | Error: 00.15 | Integral: -24.44 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.535 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -23.71 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.425 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -22.98 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.316 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -22.25 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.206 | DC: 0.000 | Vin: 50.60 | Vref: 41.75 | Error: 00.15 | Integral: -21.52 | p_: 00.15 | i_: 00.15
+Unbounded DC: -3.096 | DC: 0.000 | Vin: 50.60 | Vref: 41.75 | Error: 00.15 | Integral: -20.79 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.988 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -20.06 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.878 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -19.34 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.768 | DC: 0.000 | Vin: 50.60 | Vref: 41.75 | Error: 00.15 | Integral: -18.60 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.659 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -17.87 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.549 | DC: 0.000 | Vin: 50.58 | Vref: 41.75 | Error: 00.15 | Integral: -17.14 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.444 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -16.43 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.337 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -15.72 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.230 | DC: 0.000 | Vin: 50.63 | Vref: 42.00 | Error: 00.14 | Integral: -15.01 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.124 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -14.30 | p_: 00.15 | i_: 00.15
+Unbounded DC: -2.017 | DC: 0.000 | Vin: 50.60 | Vref: 42.00 | Error: 00.14 | Integral: -13.59 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.910 | DC: 0.000 | Vin: 50.60 | Vref: 42.00 | Error: 00.14 | Integral: -12.88 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.804 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -12.17 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.698 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -11.46 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.591 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -10.75 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.485 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -10.04 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.379 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -9.33 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.274 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -8.64 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.169 | DC: 0.000 | Vin: 50.55 | Vref: 42.00 | Error: 00.14 | Integral: -7.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: -1.063 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -7.23 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.958 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -6.53 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.852 | DC: 0.000 | Vin: 50.58 | Vref: 42.00 | Error: 00.14 | Integral: -5.82 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.750 | DC: 0.000 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: -5.14 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.648 | DC: 0.000 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: -4.46 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.546 | DC: 0.000 | Vin: 50.53 | Vref: 42.25 | Error: 00.14 | Integral: -3.78 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.443 | DC: 0.000 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: -3.10 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.341 | DC: 0.000 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: -2.41 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.239 | DC: 0.000 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: -1.73 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.137 | DC: 0.000 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: -1.05 | p_: 00.15 | i_: 00.15
+Unbounded DC: -0.035 | DC: 0.000 | Vin: 50.53 | Vref: 42.25 | Error: 00.14 | Integral: -0.37 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.067 | DC: 0.067 | Vin: 50.58 | Vref: 42.25 | Error: 00.14 | Integral: 00.31 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.163 | DC: 0.163 | Vin: 50.17 | Vref: 42.25 | Error: 00.13 | Integral: 00.95 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.251 | DC: 0.251 | Vin: 49.56 | Vref: 42.25 | Error: 00.12 | Integral: 01.55 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.327 | DC: 0.327 | Vin: 48.70 | Vref: 42.25 | Error: 00.11 | Integral: 02.07 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.387 | DC: 0.387 | Vin: 47.45 | Vref: 42.25 | Error: 00.09 | Integral: 02.50 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.425 | DC: 0.425 | Vin: 45.69 | Vref: 42.25 | Error: 00.06 | Integral: 02.77 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.437 | DC: 0.437 | Vin: 43.66 | Vref: 42.25 | Error: 00.02 | Integral: 02.89 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 42.69 | Vref: 42.25 | Error: 00.01 | Integral: 02.92 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.438 | DC: 0.438 | Vin: 42.43 | Vref: 42.50 | Error: -0.00 | Integral: 02.92 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 | DC: 0.439 | Vin: 42.59 | Vref: 42.50 | Error: 00.00 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 | DC: 0.439 | Vin: 42.54 | Vref: 42.50 | Error: 00.00 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 | DC: 0.439 | Vin: 42.48 | Vref: 42.50 | Error: -0.00 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 42.56 | Vref: 42.50 | Error: 00.00 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.438 | DC: 0.438 | Vin: 42.41 | Vref: 42.50 | Error: -0.00 | Integral: 02.92 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.440 | DC: 0.440 | Vin: 42.59 | Vref: 42.50 | Error: 00.00 | Integral: 02.93 | p_: 00.15 | i_: 00.15
+Unbounded DC: 0.439 |
